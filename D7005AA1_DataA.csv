@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,Location
+8558437661,31,Male,Virginia
+6339161847,29,Female,Arizona
+1141802236,62,Female,Iowa
+8711589558,59,Male,
+907317359,64,Female,Florida
+2054850470,31,Female,New York
+847576698,40,Female,Tennessee
+9915057296,59,Female,North Carolina
+5997896110,33,Male,Illinois
+287772012,44,Female,
+4371974082,34,Male,Indiana
+7082190638,68,Female,Louisiana
+7164504229,40,Female,Idaho
+4580459989,27,Male,Florida
+2191837433,56,Female,Michigan
+1352105268,22,Female,Virginia
+7858841165,16,Female,Pennsylvania
+9487857192,57,Female,Iowa
+9482680855,46,Male,Washington
+9067814881,21,Male,California
+2599768144,62,Male,Michigan
+2117270425,57,Male,Texas
+8363670332,62,Female,Kansas
+8131152936,23,Female,Georgia
+444479015,29,Female,Oregon
+7156963759,33,Female,California
+4869662817,58,Male,Utah
+9906834935,45,Female,
+6669528884,21,Male,Kentucky
+8207026057,22,Female,Arizona
+6400203052,31,Male,Maryland
+7075288482,51,Male,Texas
+7822652354,70,Male,Pennsylvania
+8932848807,26,Male,Kentucky
+6295891195,65,Male,Wisconsin
+6037699739,29,Male,
+806384107,58,Female,New York
+3665461456,53,Male,Indiana
+2127966554,53,Male,Texas
+504224190,48,Female,Arizona
+6950775644,27,Female,California
+730098826,42,Male,Minnesota
+6462320133,30,Female,New York
+478035632,27,Male,Georgia
+6440088505,68,Female,Utah
+3568423790,24,Female,California
+6635905065,22,Female,Nebraska
+8471091313,31,Female,Arizona
+2886421316,47,Female,Florida
+4067654464,25,Female,Tennessee
+5198015881,51,Female,Texas
+3747088198,62,Male,Illinois
+1541078942,65,Female,California
+1312276525,65,Male,Indiana
+5111132414,67,Female,Oklahoma
+6238562765,42,Female,Utah
+6482582559,38,Female,Oregon
+7654497644,46,Female,Oklahoma
+494031719,26,Male,Missouri
+1027507514,21,Male,Arizona
+7676328519,61,Female,Alabama
+9135350571,21,Female,Texas
+8491538143,53,Male,Florida
+5412898394,64,Male,Arkansas
+1066217947,19,Female,Colorado
+4300557713,48,Female,North Carolina
+3666572138,37,Female,Ohio
+3796001262,47,Female,Oklahoma
+2012767788,56,Female,Indiana
+5670121457,29,Female,Michigan
+8009065161,16,Male,Florida
+5588768329,29,Female,California
+36664502,69,Female,Georgia
+3945662907,56,Female,Kentucky
+4800535484,46,Female,California
+5922769596,65,Female,California
+8115631795,67,Male,California
+1881067777,59,Female,Utah
+6552618204,29,Female,Michigan
+6183992119,70,Female,Pennsylvania
+7057633327,44,Female,Texas
+7761629978,34,Male,Louisiana
+4470633194,39,Female,
+7699488385,35,Female,Washington
+5070913417,20,Male,
+7270431140,27,Male,Missouri
+4534189249,56,Male,Wisconsin
+7267267831,41,Female,Virginia
+9382135545,69,Male,Texas
+9775584221,33,Female,Hawaii
+446417599,56,Male,Florida
+594379245,60,Female,Ohio
+9477785539,31,Female,Michigan
+8333846270,37,Male,Michigan
+600214036,43,Female,Kentucky
+3833854030,33,Male,District of Columbia
+8964719204,34,Female,New York
+5493512629,29,Male,California
+5766331789,65,Male,District of Columbia
+1735662550,44,Female,Missouri
+1477567399,49,Female,Missouri
+6856387377,30,Male,California
+262806932,38,Male,California
+9601134123,64,Female,Kansas
+7508142519,49,Female,South Carolina
+786453656,35,Female,Indiana
+7177441581,70,Male,Texas
+5324981532,31,Male,Arizona
+8267645950,66,Female,Texas
+1028238436,49,Male,Hawaii
+3660820237,47,Female,Texas
+3982249260,49,Male,Florida
+2946439712,41,Male,District of Columbia
+2741894949,62,Male,Louisiana
+9470549791,21,Female,Georgia
+1085878473,20,Male,California
+6459906327,31,Female,California
+1348589035,24,Female,Minnesota
+8195566049,43,Male,Kansas
+795807309,20,Male,West Virginia
+6867016561,41,Male,Indiana
+6820145217,38,Male,Pennsylvania
+5424289479,33,Male,Delaware
+6394606723,49,Female,Washington
+9067245070,43,Male,Minnesota
+4313473440,39,Male,District of Columbia
+7318388932,68,Female,Oregon
+6128779301,24,Female,District of Columbia
+2828859460,60,Female,Michigan
+6482933610,38,Female,Colorado
+6051497927,23,Male,Florida
+2170904735,63,Female,Texas
+2786676061,64,Female,Georgia
+6239403938,59,Male,Minnesota
+2062788916,45,Male,Indiana
+1751293785,59,Female,Georgia
+3530623547,30,Female,Colorado
+4270679328,44,Male,Colorado
+7973061673,16,Male,Texas
+3305309687,34,Female,Colorado
+7896587947,63,Male,Florida
+3613212870,47,Female,Florida
+6012671016,35,Male,Delaware
+8237992679,27,Female,Tennessee
+6691147316,42,Male,Delaware
+2432490223,65,Male,Florida
+4849557643,46,Female,Texas
+9444663280,22,Female,Nebraska
+6866437407,43,Male,Delaware
+9077874402,46,Female,Mississippi
+8771575316,27,Male,Kansas
+7601521982,23,Female,Minnesota
+1070738115,33,Male,Massachusetts
+2894031386,55,Male,Georgia
+9547922033,38,Female,Florida
+731319818,22,Male,California
+511572417,45,Male,Texas
+7398278950,62,Female,Oregon
+948471239,40,Female,California
+398773572,18,Female,Georgia
+1289311358,40,Male,Georgia
+2072894662,18,Male,Florida
+6266160862,31,Female,Georgia
+8997746952,24,Female,New Jersey
+6715960755,16,Female,District of Columbia
+7908521223,47,Male,Kansas
+1529886848,46,Male,Arizona
+4257362502,38,Male,Ohio
+2041733942,20,Female,Alabama
+3764906456,67,Male,Minnesota
+529113988,70,Female,Minnesota
+9380310102,35,Female,Florida
+8707192215,26,Female,California
+6119592032,23,Male,Florida
+5914604206,19,Male,California
+4389086766,16,Female,West Virginia
+7137923496,20,Female,Minnesota
+8703471810,40,Male,Colorado
+6297266344,63,Female,West Virginia
+6005537415,31,Male,Michigan
+3975925442,31,Male,California
+7086055492,65,Male,South Carolina
+4968550936,63,Female,Minnesota
+7445470174,51,Male,California
+8285563855,53,Male,New Jersey
+9839587358,34,Male,Texas
+2539074138,49,Male,Texas
+6114413830,41,Male,Pennsylvania
+1907976248,20,Female,Illinois
+1599313901,31,Male,Pennsylvania
+1252628293,30,Female,Colorado
+8405619437,37,Male,Minnesota
+5270664763,69,Female,California
+7475020878,42,Female,Florida
+3938543159,22,Male,California
+3165084491,34,Male,Colorado
+1190865904,59,Male,California
+2354970501,70,Female,Georgia
+235100617,60,Female,Iowa
+7066327888,70,Male,District of Columbia
+5616667994,34,Female,Iowa
+2787422284,65,Male,Arizona
+9062690238,38,Female,Minnesota
+6670660278,47,Female,Texas
+3908192498,58,Male,West Virginia
+5431022768,66,Female,Arizona
+4050906783,18,Male,Washington
+4612012380,52,Female,Arizona
+7913138254,37,Female,Nebraska
+6769831058,26,Male,Maryland
+7073489278,26,Female,Tennessee
+5255282367,20,Male,California
+3391749180,23,Female,Alaska
+7092510139,40,Male,Alabama
+9278978442,54,Female,Florida
+3677137578,23,Female,California
+2876849046,57,Male,District of Columbia
+9286475330,45,Female,Arizona
+895917602,61,Female,Texas
+5133300530,21,Female,Ohio
+146357612,70,Male,Virginia
+524836205,53,Male,Utah
+8720375239,64,Male,Arizona
+2886751510,63,Male,
+6656214509,34,Male,Arkansas
+3111442896,36,Female,Florida
+6939468056,37,Male,Georgia
+5908277053,58,Male,New York
+1948309548,20,Male,Alabama
+3990764217,46,Female,
+1757316094,52,Female,Colorado
+2876830868,50,Female,Tennessee
+3828140432,33,Female,District of Columbia
+5340772942,64,Female,Florida
+4830348577,62,Female,California
+2612633898,50,Female,District of Columbia
+670457582,60,Male,North Carolina
+9008798433,58,Female,Illinois
+6897329819,26,Female,Idaho
+5733466197,54,Female,Montana
+874807719,29,Male,California
+5697407548,30,Male,Minnesota
+9760490048,67,Male,California
+647025965,52,Female,Indiana
+4787418416,49,Female,New York
+1459244575,45,Male,California
+9725840194,19,Female,Missouri
+2096156149,33,Female,New Jersey
+7778951142,65,Female,District of Columbia
+4654577378,18,Female,Tennessee
+7509341833,45,Male,California
+5439420266,19,Female,New York
+3249484008,56,Female,District of Columbia
+8013358666,26,Male,Texas
+9444257282,53,Female,California
+4100542984,30,Male,New York
+5589194962,32,Female,California
+5507439745,63,Male,Connecticut
+3163448305,18,Male,Arizona
+4777789705,39,Female,Virginia
+1725377330,29,Male,Nebraska
+1748069772,18,Male,Texas
+2928678859,39,Female,Colorado
+9889833700,34,Female,Hawaii
+3638653218,53,Female,Utah
+781304571,70,Male,Texas
+6099701451,53,Female,Minnesota
+3407686617,23,Male,New York
+7676236657,65,Male,Florida
+8746841016,19,Female,Florida
+5033838555,66,Male,Ohio
+152799311,54,Male,Louisiana
+7672360639,21,Female,Florida
+9629812274,56,Male,Texas
+8886280459,33,Male,Pennsylvania
+125292562,29,Male,Ohio
+8353980533,57,Female,Tennessee
+1632518678,25,Female,Indiana
+9096792491,48,Female,Florida
+926846558,41,Female,Nevada
+1060013606,45,Female,Virginia
+4506651979,63,Female,Texas
+9970729535,44,Male,Texas
+6259423969,27,Male,Indiana
+3743811898,50,Female,Colorado
+9223434726,25,Female,Oklahoma
+785533281,57,Female,Wisconsin
+9998127408,69,Female,Idaho
+2741410631,37,Male,Illinois
+3021065457,49,Female,Virginia
+2454172143,67,Female,Connecticut
+3080918851,28,Female,District of Columbia
+4038471551,36,Male,California
+6422760159,68,Female,Pennsylvania
+255179138,29,Male,Wisconsin
+4616178836,31,Male,
+6855991424,16,Female,Colorado
+9656466519,32,Male,Texas
+3613167247,35,Male,Wisconsin
+8260965178,59,Female,Nebraska
+9449767505,61,Male,Montana
+126468923,66,Male,New York
+2635616914,54,Female,Virginia
+7264597849,56,Female,Florida
+5650656789,19,Female,Minnesota
+5530783465,44,Female,Florida
+5747409603,62,Male,New York
+6435221375,52,Male,California
+5703260221,60,Male,Texas
+4953762703,28,Male,Pennsylvania
+3075066273,46,Male,Tennessee
+3758133394,19,Male,Pennsylvania
+9037819354,26,Male,Virginia
+302121021,34,Female,Arizona
+2039843833,64,Female,Texas
+1403552479,26,Female,Tennessee
+4099786641,62,Female,Texas
+844797243,30,Male,Michigan
+5112255196,57,Male,Florida
+1488992975,57,Male,California
+1899707883,27,Female,Nevada
+6998433468,69,Male,Washington
+2676623168,24,Male,California
+7783212646,65,Female,Minnesota
+9979297026,59,Female,Ohio
+8062502775,64,Male,Virginia
+1629978639,70,Male,Virginia
+2170940073,35,Male,Arizona
+7211382406,27,Male,Washington
+338129197,31,Female,Ohio
+8471693585,36,Female,Texas
+8564917572,54,Male,Minnesota
+4337912436,45,Female,Nebraska
+3265271625,32,Female,Texas
+6108959789,49,Female,New York
+224923153,27,Male,Texas
+5373367400,37,Male,Missouri
+5217739169,37,Female,Texas
+6187954696,55,Male,Wisconsin
+1319285392,36,Female,Oregon
+257103678,16,Male,California
+5002946836,53,Male,Florida
+6501832446,21,Female,Minnesota
+4394743095,63,Female,West Virginia
+3562992866,65,Male,District of Columbia
+2020332663,68,Male,Colorado
+8228539797,28,Female,Florida
+6831994741,54,Male,Texas
+474132056,50,Female,Oklahoma
+2562497619,17,Female,Pennsylvania
+4125904251,23,Female,Idaho
+7312728618,68,Female,California
+8600803365,51,Male,Indiana
+14695960,57,Female,Arizona
+1278144730,65,Male,Hawaii
+797486755,16,Female,West Virginia
+8915512634,56,Female,Washington
+3117354573,59,Male,California
+6206388212,60,Male,New Mexico
+3464861759,22,Female,Oklahoma
+9762634667,64,Male,Washington
+8092396655,26,Female,Texas
+1559610077,57,Male,New York
+423433040,60,Male,Minnesota
+1435183665,65,Male,Indiana
+2402862157,30,Female,Michigan
+7681578609,68,Female,Colorado
+3842647808,43,Male,Virginia
+6884977930,33,Male,California
+7600920654,58,Female,Nebraska
+8945669442,50,Female,Texas
+6473736824,47,Female,Arizona
+4645822314,16,Female,Illinois
+8254385238,28,Male,Minnesota
+7572760112,29,Female,Tennessee
+1340895498,61,Female,Idaho
+1575421348,54,Female,Washington
+6887930366,54,Male,Vermont
+2823332944,27,Female,Massachusetts
+1941958842,42,Female,California
+7224725196,23,Male,North Carolina
+6746634086,30,Male,California
+2949141765,34,Female,Washington
+6387669162,27,Male,Texas
+3623421499,35,Male,Arizona
+2621137806,68,Male,Connecticut
+1342669304,59,Male,District of Columbia
+4352071250,32,Female,Minnesota
+4825708609,24,Female,New York
+6922622421,62,Male,Michigan
+8152938440,47,Male,California
+9014797516,49,Female,Texas
+6897557366,45,Female,New York
+8292376356,32,Female,California
+6734840018,30,Male,Ohio
+8531299578,29,Male,Texas
+7101387756,39,Male,Virginia
+6903216316,17,Male,West Virginia
+6591911502,20,Male,Virginia
+7369944719,39,Male,California
+3071876874,69,Male,Washington
+5206659762,27,Female,Tennessee
+989617777,42,Female,Texas
+4602454917,22,Male,
+5832073843,43,Male,New York
+6246232469,35,Female,Oregon
+1585367761,58,Male,Arizona
+694325481,39,Male,Wisconsin
+3763749209,66,Female,Florida
+6018261928,18,Male,Texas
+3099464759,66,Female,Nebraska
+3614545903,24,Female,Minnesota
+7141403175,60,Female,Kentucky
+4276701260,19,Female,Missouri
+630207577,70,Male,Colorado
+378027514,51,Male,California
+9918784288,61,Female,Oklahoma
+5403417729,62,Female,Oklahoma
+5748620049,49,Female,New York
+9291536318,62,Female,Ohio
+6699759221,52,Male,Florida
+3055711319,45,Male,Missouri
+2035636299,60,Male,California
+3090380129,51,Female,Indiana
+8867229141,64,Male,Alabama
+2237885494,44,Female,Washington
+2687899232,17,Male,Hawaii
+6953206330,68,Female,Kansas
+1359088989,52,Male,New York
+9705034958,26,Female,Illinois
+9584811126,24,Male,New York
+6386056051,51,Male,Maine
+7238585472,69,Male,Arizona
+5501092662,44,Male,California
+9653524992,23,Female,Texas
+4045841881,53,Male,Florida
+1104795221,18,Female,California
+5931499377,53,Female,Florida
+2733374168,24,Male,Kentucky
+9078564997,22,Female,Missouri
+209658770,29,Female,Texas
+671778374,69,Male,Michigan
+611841711,35,Male,New York
+4822915131,55,Male,Florida
+1190986663,56,Female,New York
+2494821959,52,Male,
+4314637943,44,Male,Louisiana
+8656778757,62,Male,Massachusetts
+374125880,69,Male,California
+8176165670,64,Female,Louisiana
+5707796509,43,Male,Kansas
+3173690486,29,Male,Tennessee
+5010129175,63,Male,South Carolina
+9155791751,44,Female,Illinois
+2289879185,52,Female,Georgia
+6608147619,16,Female,Indiana
+1443193577,37,Male,Ohio
+8230584842,53,Male,Minnesota
+9323381063,62,Female,District of Columbia
+2369535407,53,Male,California
+2403550256,50,Male,Alabama
+3906916642,21,Female,Texas
+1417845732,65,Female,Virginia
+477260918,29,Female,Pennsylvania
+9051756089,33,Female,Nebraska
+9225539673,25,Male,Nevada
+3560612675,51,Female,Nevada
+4769780575,25,Female,Texas
+8862170807,19,Male,Ohio
+8428628416,19,Female,Virginia
+7346162242,70,Female,Nevada
+6390557752,48,Male,California
+7673752115,69,Male,Utah
+5709835749,68,Female,California
+3822479551,60,Male,Florida
+8826619891,29,Male,Missouri
+9594970812,36,Female,Oklahoma
+85423017,67,Male,District of Columbia
+1616874368,56,Male,District of Columbia
+4230886918,33,Female,California
+7707141121,25,Female,Illinois
+6887595281,27,Female,California
+683886894,61,Male,Texas
+8399280321,20,Male,Florida
+1019145323,46,Male,Utah
+1384710701,36,Female,Colorado
+9298903804,67,Male,
+8292121005,55,Male,New York
+520680022,34,Male,Oregon
+1770440429,49,Male,Ohio
+269508503,60,Male,North Carolina
+1261955927,19,Male,Arkansas
+1218904364,52,Male,Michigan
+2587175933,56,Female,Kansas
+3631461275,55,Female,Minnesota
+5977474709,53,Female,West Virginia
+4401078853,59,Female,Texas
+9232111861,32,Female,Alabama
+6877818024,37,Male,California
+4136840969,57,Male,North Carolina
+5550197642,37,Female,California
+2581448075,18,Male,North Carolina
+997522704,53,Female,Texas
+5609743265,46,Male,Florida
+7462811383,33,Female,South Carolina
+4331170853,40,Male,Colorado
+6183166626,24,Male,Texas
+1807807401,31,Male,Massachusetts
+9009149773,54,Female,California
+1754408826,38,Male,Indiana
+2425641653,28,Male,Delaware
+1471465748,66,Female,New York
+4795279241,43,Female,Missouri
+2526833868,26,Female,Missouri
+6586524105,61,Female,
+1344032133,31,Male,
+1556273916,18,Male,Ohio
+6035086489,18,Female,New York
+3148814002,21,Male,New York
+6012154844,22,Female,Georgia
+2451693258,66,Female,Pennsylvania
+2077340789,22,Male,New Jersey
+8072492713,67,Male,Tennessee
+6861055654,29,Male,Connecticut
+3184988775,53,Female,Massachusetts
+5281730851,57,Female,California
+3712200196,25,Male,Pennsylvania
+2472115458,26,Male,Colorado
+6174588424,36,Female,Missouri
+6954634654,62,Male,Texas
+1766386482,21,Male,Florida
+743415655,61,Male,North Carolina
+3935263996,60,Female,North Carolina
+4026527409,17,Male,Florida
+4706103657,58,Female,Georgia
+1159013152,24,Female,Louisiana
+4068844305,52,Female,Texas
+6180156557,51,Male,Wisconsin
+5400621872,24,Female,Idaho
+4257119012,64,Female,
+7167846775,17,Male,District of Columbia
+5155308062,64,Male,Colorado
+259418374,31,Male,Washington
+5185298502,22,Female,Indiana
+578374781,55,Male,Illinois
+538283572,19,Female,Nebraska
+5805650800,51,Male,Kansas
+1132398053,63,Male,Indiana
+8544822398,36,Female,Utah
+6894170487,18,Male,North Carolina
+4009108428,29,Male,Georgia
+3754384244,41,Male,California
+4784070877,16,Male,Florida
+6311759462,56,Male,Texas
+2158815167,52,Male,Texas
+2219632814,63,Male,Texas
+6629071999,62,Male,Ohio
+2815386194,36,Female,California
+5853595253,22,Female,Colorado
+6543567376,40,Male,Tennessee
+5193750702,41,Male,Ohio
+4824845823,45,Male,Tennessee
+8878764337,39,Male,Tennessee
+1486187420,37,Female,Florida
+7900500863,48,Female,Indiana
+7760086601,23,Male,District of Columbia
+8986726831,68,Male,Arizona
+2074803044,29,Male,Florida
+9465698121,30,Male,Texas
+5897326444,56,Female,Texas
+505357577,25,Male,
+6213317724,33,Female,California
+3074649453,68,Female,Montana
+8397717927,68,Female,Indiana
+6741774394,22,Female,Indiana
+2265692794,70,Female,Ohio
+1925269892,35,Female,Texas
+4240917123,54,Female,Florida
+4896589947,23,Male,Alabama
+7845494011,43,Female,Florida
+6551941028,33,Male,Mississippi
+2221361695,30,Female,California
+93236395,17,Male,Pennsylvania
+7565605921,23,Male,West Virginia
+2109137797,68,Female,Colorado
+9797211932,36,Male,Florida
+95127968,33,Male,Utah
+218932871,28,Female,California
+854829903,25,Male,New York
+9169474095,69,Female,Ohio
+9811848971,27,Male,Illinois
+7057107390,60,Female,West Virginia
+327360,70,Female,District of Columbia
+3767553244,62,Male,Wisconsin
+539490954,59,Female,District of Columbia
+1251647154,47,Female,Nevada
+8294457213,43,Female,North Carolina
+5359314737,30,Female,Texas
+3586980922,62,Female,California
+9668850106,65,Female,Virginia
+6336656586,51,Male,Massachusetts
+3832151303,24,Female,Alabama
+9673427666,66,Male,Virginia
+2789849900,17,Male,Connecticut
+8141623680,19,Female,Texas
+1234497735,38,Male,New York
+8868625350,51,Male,New Mexico
+5637836132,32,Male,Georgia
+8634218554,16,Female,Michigan
+7506202409,58,Male,Arizona
+2880110289,53,Female,Wisconsin
+3310545830,25,Male,Washington
+1729568998,44,Female,California
+8457101110,46,Female,
+9101946374,18,Female,Virginia
+8326888478,37,Male,California
+220662770,25,Male,Ohio
+3505650137,69,Female,California
+3230022300,29,Male,Idaho
+5509285273,18,Female,Maryland
+1067189025,62,Female,Kentucky
+638826969,20,Female,Virginia
+4352654140,66,Male,District of Columbia
+2438559845,54,Female,Michigan
+5929694427,30,Male,South Carolina
+1833433106,65,Female,Texas
+5455091980,44,Male,Connecticut
+618097368,47,Male,New Mexico
+5138362151,17,Male,Florida
+4075312682,44,Male,California
+273245503,66,Male,Texas
+8850299826,65,Male,California
+8769030901,64,Male,California
+9752949088,38,Male,Minnesota
+1127370685,49,Male,North Carolina
+7805808619,37,Male,Florida
+6941492309,49,Male,Florida
+5621251830,25,Female,Alabama
+8599184474,52,Female,Louisiana
+4927076520,21,Male,Arizona
+5808903955,26,Male,Mississippi
+1043379282,46,Female,Connecticut
+2756851078,55,Male,
+2672583188,64,Male,
+3644346828,19,Female,Washington
+2044937700,51,Female,Oregon
+1966557175,53,Female,Kansas
+4064805178,27,Female,Texas
+9681989511,47,Female,District of Columbia
+310784697,45,Female,Florida
+9866030806,22,Male,Ohio
+2332727310,60,Male,Florida
+9450236267,26,Female,California
+3184745694,51,Female,New Jersey
+4943752837,20,Female,District of Columbia
+956848419,67,Male,Virginia
+218228368,24,Female,Wisconsin
+5458089154,21,Female,Louisiana
+2180397089,44,Male,Michigan
+7364080708,58,Male,California
+5701479536,58,Male,Texas
+2728640351,55,Female,Texas
+6029676628,20,Female,North Dakota
+2143392532,67,Male,New Mexico
+1969578793,43,Female,Texas
+410390224,22,Male,North Carolina
+615327338,33,Male,New York
+8083479500,44,Male,Washington
+2564207243,33,Female,Florida
+8205159904,39,Male,Florida
+6710417476,45,Male,Washington
+7871531417,59,Male,Georgia
+7348455115,17,Female,Virginia
+1906921601,38,Female,Nebraska
+1733603662,57,Female,South Carolina
+9427070056,24,Female,Texas
+1928867251,61,Female,Florida
+2016047399,33,Female,District of Columbia
+9225343167,23,Male,Missouri
+9679811514,53,Male,Florida
+8116465279,37,Male,Washington
+3603984501,51,Male,Massachusetts
+9792128921,17,Female,California
+1297552458,68,Female,Florida
+8561151153,63,Male,District of Columbia
+3741779083,20,Female,Alaska
+3395017346,62,Male,New York
+7329577103,50,Male,California
+3501670788,40,Female,Washington
+6225452060,65,Male,California
+1112553703,32,Female,North Carolina
+7125819230,55,Male,Maryland
+1540991970,43,Female,Georgia
+8710068317,67,Male,New York
+1452178690,34,Female,Ohio
+9413975140,63,Male,New York
+7032929605,23,Female,Georgia
+8229304041,29,Female,Connecticut
+6981958856,51,Male,California
+586671935,59,Male,South Carolina
+3185961439,44,Female,Florida
+8942927114,24,Male,Texas
+2733270095,54,Male,Ohio
+1907301887,66,Female,Florida
+4745975171,27,Male,
+3607057397,62,Female,Virginia
+2922640906,53,Female,District of Columbia
+6502326153,58,Male,Virginia
+2349576248,58,Male,Georgia
+4541993694,21,Male,Nevada
+53850513,32,Female,Indiana
+9865367009,29,Female,Washington
+6150588580,67,Female,Washington
+5676579722,49,Female,Wisconsin
+8332792231,18,Female,Ohio
+1426906706,32,Male,Texas
+9732487968,60,Male,District of Columbia
+1590506626,43,Male,Mississippi
+2228372277,17,Female,California
+3762201161,25,Male,Missouri
+9979001585,30,Male,District of Columbia
+1371649855,36,Male,Pennsylvania
+1609960432,23,Male,Texas
+6861163392,18,Female,Virginia
+2230671618,42,Female,Alabama
+6870240175,69,Female,Kentucky
+9678642581,46,Female,Wisconsin
+2561059499,49,Female,Florida
+1987231198,36,Male,District of Columbia
+8616848460,34,Male,New Jersey
+3563733791,61,Male,Ohio
+433927879,47,Male,
+2966691964,34,Male,Florida
+6481780918,35,Female,South Dakota
+9280060686,60,Male,
+1576050610,33,Female,Texas
+9769418137,46,Male,New York
+7241794400,35,Female,New Mexico
+5001992850,27,Female,California
+7224286281,16,Female,Texas
+2940592233,29,Female,Arizona
+6263260661,50,Female,Louisiana
+5576266315,32,Female,District of Columbia
+6926261741,40,Female,New York
+1893565688,18,Female,Florida
+1693706040,51,Female,Georgia
+8590669475,17,Male,Tennessee
+4936274283,62,Male,Florida
+1571120998,18,Male,New Mexico
+4802223234,18,Male,Texas
+1416189246,28,Male,North Carolina
+6809193677,45,Female,Massachusetts
+8494174568,39,Male,Kentucky
+8290694385,45,Female,North Carolina
+7306452290,39,Male,Illinois
+9746687859,23,Female,New York
+4749929573,50,Female,Iowa
+6418629922,34,Male,North Carolina
+2163531163,39,Female,Illinois
+1692374478,39,Male,California
+9984389243,57,Female,Arizona
+5109316112,60,Male,District of Columbia
+9930430822,22,Male,Florida
+2130584829,45,Female,Ohio
+9318550294,26,Female,Texas
+4765382060,60,Female,Alaska
+3224673400,61,Male,Arizona
+9217456977,18,Male,Texas
+5696077064,46,Female,Virginia
+8646371220,40,Male,Florida
+3166482792,39,Female,Texas
+4866467010,60,Male,Hawaii
+2573503992,16,Female,Florida
+281354715,38,Female,Ohio
+429180748,59,Male,Colorado
+9673706387,39,Male,Connecticut
+8888427708,29,Male,Michigan
+9556623981,70,Male,Louisiana
+843039752,47,Female,Ohio
+9504056326,46,Male,Maryland
+1334354154,18,Female,Texas
+8540254719,46,Female,
+5440399771,24,Female,
+1586322877,21,Male,Florida
+359839878,40,Male,New York
+8732127316,55,Male,California
+5612213859,62,Male,North Carolina
+1893498212,22,Male,Arizona
+8676490368,68,Female,Indiana
+2008628825,40,Male,Texas
+9754387370,42,Female,Texas
+1369860633,69,Female,Texas
+5634242517,25,Female,Alabama
+5529928498,62,Female,Colorado
+7785849587,16,Female,Virginia
+8397582886,43,Male,Indiana
+9557066172,37,Male,Oklahoma
+2069596575,18,Male,Indiana
+3411499273,17,Male,Nevada
+2482494834,59,Female,Texas
+7294043078,47,Female,Louisiana
+2388044146,51,Male,Illinois
+18645569,57,Male,Arizona
+4461597571,41,Female,California
+472262386,70,Female,Washington
+4969708932,40,Female,Texas
+4790197824,58,Male,Texas
+4015044924,61,Male,Michigan
+8317168557,37,Female,Missouri
+6493704693,70,Female,New York
+6135784579,41,Male,New York
+7055310202,25,Male,Florida
+2249231702,28,Male,North Carolina
+221421203,52,Female,Utah
+3146465558,66,Female,Michigan
+9636748675,61,Female,Connecticut
+6241979159,62,Male,Texas
+615049915,47,Female,Texas
+6652601028,36,Male,Texas
+5384047909,24,Male,Iowa
+9920386561,37,Male,Louisiana
+8990938651,27,Female,Texas
+9500537435,32,Female,Wisconsin
+5266376295,21,Male,Texas
+4764251922,63,Male,Michigan
+4921038856,18,Female,New York
+1976514770,36,Male,Florida
+914221558,36,Male,Kansas
+4962766201,31,Female,
+2305517327,27,Male,District of Columbia
+3446065326,67,Male,Oklahoma
+8560755713,43,Female,Kansas
+246150238,52,Female,Missouri
+4324599807,25,Female,Texas
+6851696851,27,Female,Illinois
+5449054114,22,Male,California
+785140360,48,Female,Louisiana
+7567734796,40,Male,Nevada
+8319295807,67,Female,Texas
+7530448242,55,Female,Florida
+617066817,22,Male,Texas
+946065802,37,Male,New York
+6436882839,56,Female,Utah
+7590132225,55,Female,Kentucky
+6015018968,60,Male,Indiana
+1954107684,56,Male,Tennessee
+5838820861,69,Male,Indiana
+695962728,27,Male,California
+4134764793,68,Male,Washington
+3913342257,62,Male,Pennsylvania
+5650910243,69,Female,New York
+874152305,51,Male,Florida
+3206998387,21,Female,New York
+1965456235,46,Male,Hawaii
+1040590314,30,Female,Washington
+1292723777,45,Female,Georgia
+9169032947,66,Female,Texas
+3158382687,43,Male,District of Columbia
+1566170737,60,Female,Texas
+6657507941,54,Male,Oklahoma
+3525984820,61,Female,Montana
+759601496,22,Female,Texas
+2706552077,42,Female,Colorado
+9076730539,36,Female,Texas
+7773342040,37,Female,Florida
+9200870473,41,Male,Ohio
+6194845791,54,Female,Pennsylvania
+4900329606,36,Female,Florida
+3179467894,70,Female,Indiana
+6854685354,37,Female,District of Columbia
+6470522831,43,Male,Illinois
+7488947827,17,Male,California
+5404190876,23,Female,Utah
+1383862826,19,Female,District of Columbia
+2297421826,35,Female,California
+6801570234,33,Female,Virginia
+66081572,29,Male,Colorado
+4318604071,68,Female,Kansas
+6287130873,53,Female,New York
+287362493,57,Female,California
+3814384768,29,Female,District of Columbia
+7512289170,28,Female,Alabama
+4863082878,70,Female,Ohio
+7700871574,56,Female,Missouri
+7108269597,31,Male,Pennsylvania
+8810671740,70,Male,New Jersey
+6966245275,62,Male,Texas
+6871589112,47,Female,District of Columbia
+9386044455,20,Female,California
+5270847094,19,Male,Illinois
+8958407859,41,Male,Georgia
+9455773066,41,Male,California
+6928967005,44,Female,Delaware
+3290112039,40,Female,Connecticut
+9610616410,63,Female,Iowa
+4972033126,25,Female,Alabama
+4447820714,65,Male,
+9486837708,56,Male,New York
+324787383,70,Male,Colorado
+7465700604,37,Female,New York
+7809021753,62,Female,Texas
+2137783533,55,Male,Pennsylvania
+1569089434,47,Female,Iowa
+130790079,65,Female,Michigan
+6969813045,40,Female,Massachusetts
+5296494288,21,Male,California
+2129533205,61,Male,New York
+976849283,40,Male,Indiana
+4053448425,65,Male,California
+4830060107,23,Female,New York
+1887379290,61,Male,Texas
+2381460527,40,Female,New York
+4759118845,56,Female,California
+4230659946,69,Male,Missouri
+9992419180,59,Male,Kansas
+19467877,22,Male,Michigan
+4309408753,51,Female,California
+3040690620,33,Male,New York
+1016422806,32,Male,Florida
+3395228657,52,Female,New York
+1446122727,67,Female,Pennsylvania
+6752337462,45,Male,
+2633744834,38,Male,Kansas
+560382561,66,Female,California
+6883741127,47,Male,New York
+3659865028,65,Male,California
+5483205545,46,Male,Texas
+573989753,45,Female,Michigan
+5508180591,27,Male,Idaho
+9667091686,22,Male,Pennsylvania
+8133801826,21,Male,Arkansas
+8427023294,51,Male,Michigan
+7122367444,20,Female,Washington
+942001826,52,Female,Texas
+689996942,66,Male,California
+3178450998,48,Female,Pennsylvania
+622077538,62,Female,Alabama
+9336105051,46,Male,Florida
+1852527811,43,Female,Nevada
+6280013812,57,Female,California
+5164448114,42,Male,California
+4597803203,61,Male,Oklahoma
+7949275219,29,Female,Washington
+6812944394,23,Female,Texas
+2842163249,48,Female,South Carolina
+8418000392,33,Male,Mississippi
+7542728679,35,Female,District of Columbia
+5002903533,49,Female,Colorado
+389645214,54,Male,North Carolina
+2698298472,51,Male,
+2026070776,39,Female,Colorado
+5241909583,68,Male,Texas
+9967889004,59,Female,Michigan
+1384097937,53,Male,New York
+173495583,30,Male,Virginia
+2393896414,33,Male,Texas
+1357116047,59,Male,Louisiana
+8742384389,23,Male,Texas
+7942388603,49,Female,Texas
+5059333477,18,Female,Missouri
+8014757998,20,Male,Maryland
+318874555,50,Female,Wisconsin
+2704243115,69,Male,Iowa
+6965842687,18,Female,California
+2579918272,37,Female,California
+3786388938,26,Female,District of Columbia
+884909751,20,Female,Connecticut
+3124679245,65,Male,Minnesota
+8251223830,67,Male,Texas
+6247513356,46,Female,Maryland
+164243534,58,Female,Washington
+5326110407,58,Male,North Carolina
+2455777308,34,Male,Tennessee
+9291958506,20,Male,Washington
+7429286070,47,Male,Connecticut
+8235347105,63,Male,California
+3154319360,45,Male,Texas
+7435862177,40,Male,Oklahoma
+3902859148,18,Male,California
+7982954472,43,Female,Kentucky
+8637669972,36,Female,Louisiana
+94471509,25,Male,Florida
+8983569085,70,Male,
+4366785684,44,Female,Florida
+5004526702,16,Male,Alabama
+395891094,33,Male,District of Columbia
+6778527447,17,Male,West Virginia
+3424298581,60,Male,Ohio
+295050950,19,Male,Connecticut
+8819107244,55,Male,Michigan
+2731259582,62,Male,Kentucky
+5034759977,70,Male,Texas
+603480454,45,Female,Maryland
+7674974790,43,Female,Kansas
+1994311797,55,Male,Missouri
+399388044,45,Male,Minnesota
+5200913829,39,Female,Delaware
+7737237402,49,Female,Texas
+2987225903,40,Female,California
+9237101511,22,Female,Maryland
