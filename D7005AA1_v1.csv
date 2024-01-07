@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,Sastification,MinutePerVisit,PromotionPercent,Comments,Churn
+8558437661,31,Male,Virginia,Gold,42,574.16,Electronics,1/04/2023,2.3,85,4,true,0
+6339161847,29,Female,Arizona,Silver,15,2227.76,Grocery,3/02/2023,1.2,44,47,false,1
+1141802236,62,Female,Iowa,Platinum,11,961.75,Toys,9/19/2023,1.8,94,11,true,1
+8711589558,59,Male,,Bronze,49,551.81,Computers,3/02/2023,2.7,114,74,true,1
+907317359,64,Female,Florida,Platinum,50,818.54,Toys,4/30/2023,2.4,76,49,true,1
+2054850470,31,Female,New York,Bronze,29,615.62,Health,3/03/2023,3.0,17,5,false,1
+847576698,40,Female,Tennessee,Gold,3,2712.39,Industrial,10/11/2023,3.4,105,83,true,0
+9915057296,59,Female,North Carolina,Gold,34,2157.25,Garden,11/29/2023,2.8,54,98,false,0
+5997896110,33,Male,Illinois,Platinum,29,2122.96,Kids,4/17/2023,2.4,53,73,true,0
+287772012,44,Female,,Platinum,50,2636.88,Health,11/22/2023,2.9,80,46,true,1
+4371974082,34,Male,Indiana,Gold,11,2585.99,Baby,4/13/2023,4.6,111,76,false,0
+7082190638,68,Female,Louisiana,Bronze,5,1381.24,Clothing,5/22/2023,,82,84,true,1
+7164504229,40,Female,Idaho,Platinum,9,1760.97,Computers,8/09/2023,3.9,40,35,true,1
+4580459989,27,Male,Florida,Bronze,32,1733.47,Electronics,11/12/2023,3.0,24,99,false,1
+2191837433,56,Female,Michigan,Platinum,31,1041.06,Sports,7/24/2023,3.8,48,31,true,0
+1352105268,22,Female,Virginia,Platinum,45,2776.17,Shoes,3/23/2023,2.9,53,2,true,1
+7858841165,16,Female,Pennsylvania,Gold,45,638.51,Jewelry,5/02/2023,1.9,81,86,false,0
+9487857192,57,Female,Iowa,Gold,33,748.32,Books,8/05/2023,2.3,11,53,false,1
+9482680855,46,Male,Washington,Bronze,2,2921.39,Outdoors,9/26/2023,2.8,81,4,false,1
+9067814881,21,Male,California,Platinum,30,2881.42,Shoes,7/31/2023,,13,43,false,0
+2599768144,62,Male,Michigan,Silver,6,2506.47,Toys,10/07/2023,3.1,10,91,true,1
+2117270425,57,Male,Texas,Gold,10,1535.47,Movies,2/08/2023,2.6,10,1,false,1
+8363670332,62,Female,Kansas,Silver,3,1887.18,Toys,7/03/2023,1.8,108,64,false,1
+8131152936,23,Female,Georgia,Gold,6,2295.58,Tools,3/20/2023,2.4,83,51,true,1
+444479015,29,Female,Oregon,Platinum,12,1980.84,Electronics,10/01/2023,1.7,64,43,true,0
+7156963759,33,Female,California,Platinum,19,1657.9,Kids,9/15/2023,,68,3,false,0
+4869662817,58,Male,Utah,Bronze,16,2247.2,Clothing,9/06/2023,3.5,90,8,false,1
+9906834935,45,Female,,Platinum,36,2583.7,Movies,1/06/2023,3.0,94,19,true,1
+6669528884,21,Male,Kentucky,Bronze,48,,Home,8/27/2023,3.1,32,21,true,0
+8207026057,22,Female,Arizona,Platinum,39,,Movies,4/26/2023,4.9,25,84,false,1
+6400203052,31,Male,Maryland,Silver,12,904.09,Movies,8/16/2023,1.1,79,57,false,0
+7075288482,51,Male,Texas,Silver,9,1566.73,Home,11/19/2023,2.1,70,22,false,1
+7822652354,70,Male,Pennsylvania,Silver,49,692.31,Clothing,12/29/2023,4.0,104,30,true,1
+8932848807,26,Male,Kentucky,Gold,34,2463.62,Beauty,8/20/2023,1.6,89,42,false,1
+6295891195,65,Male,Wisconsin,Gold,31,1627.83,Tools,4/08/2023,4.0,22,67,false,0
+6037699739,29,Male,,Platinum,24,448.37,Jewelry,12/04/2023,1.3,108,56,true,1
+806384107,58,Female,New York,Silver,37,1340.54,Home,11/05/2023,3.0,28,12,true,1
+3665461456,53,Male,Indiana,Bronze,5,1196.26,Tools,5/30/2023,1.3,118,29,true,1
+2127966554,53,Male,Texas,Bronze,3,232.26,Grocery,1/27/2023,2.9,110,32,false,0
+504224190,48,Female,Arizona,Silver,14,1145.15,Industrial,12/15/2023,1.8,13,8,true,0
+6950775644,27,Female,California,Gold,43,1270.2,Computers,4/16/2023,1.9,72,95,true,0
+730098826,42,Male,Minnesota,Bronze,5,220.37,Electronics,5/10/2023,5.0,76,41,false,0
+6462320133,30,Female,New York,Silver,38,2490.77,Clothing,9/04/2023,1.6,47,85,false,0
+478035632,27,Male,Georgia,Gold,16,1956.18,Tools,1/26/2023,4.1,112,11,false,1
+6440088505,68,Female,Utah,Silver,28,1314.31,Baby,7/19/2023,2.7,31,39,true,0
+3568423790,24,Female,California,Silver,45,,Clothing,2/14/2023,1.0,24,98,false,0
+6635905065,22,Female,Nebraska,Bronze,45,500.59,Industrial,4/14/2023,1.2,24,85,false,1
+8471091313,31,Female,Arizona,Gold,34,553.08,Shoes,5/27/2023,4.9,19,25,false,1
+2886421316,47,Female,Florida,Platinum,15,826.46,Sports,4/08/2023,3.0,27,64,true,0
+4067654464,25,Female,Tennessee,Bronze,49,2620.95,Jewelry,3/11/2023,1.1,90,32,true,1
+5198015881,51,Female,Texas,Bronze,6,,Home,4/28/2023,1.9,14,100,true,1
+3747088198,62,Male,Illinois,Bronze,10,1718.81,Outdoors,3/12/2023,4.7,71,30,true,1
+1541078942,65,Female,California,Platinum,25,400.83,Health,6/07/2023,2.0,105,35,false,1
+1312276525,65,Male,Indiana,Silver,20,796.97,Industrial,1/20/2023,3.9,44,16,true,1
+5111132414,67,Female,Oklahoma,Platinum,25,2786.55,Toys,6/13/2023,,36,67,true,0
+6238562765,42,Female,Utah,Bronze,42,482.32,Electronics,2/12/2023,2.5,49,51,false,0
+6482582559,38,Female,Oregon,Bronze,8,1166.45,Clothing,6/24/2023,4.5,61,56,true,0
+7654497644,46,Female,Oklahoma,Gold,9,1205.87,Toys,3/02/2023,2.2,13,78,false,1
+494031719,26,Male,Missouri,Bronze,19,1950.09,Tools,4/22/2023,4.5,71,69,false,0
+1027507514,21,Male,Arizona,Bronze,33,1669.62,Industrial,2/15/2023,2.5,62,84,false,0
+7676328519,61,Female,Alabama,Silver,13,803.73,Music,5/31/2023,2.9,32,45,true,0
+9135350571,21,Female,Texas,Silver,31,2224.0,Tools,10/13/2023,3.5,16,54,true,0
+8491538143,53,Male,Florida,Gold,30,1075.33,Electronics,8/30/2023,2.8,108,60,true,0
+5412898394,64,Male,Arkansas,Gold,31,2795.27,Automotive,9/09/2023,3.4,33,40,true,0
+1066217947,19,Female,Colorado,Bronze,10,42.16,Home,10/16/2023,4.9,34,59,true,1
+4300557713,48,Female,North Carolina,Gold,44,2967.52,Music,2/12/2023,2.8,96,55,true,0
+3666572138,37,Female,Ohio,Silver,20,985.18,Jewelry,11/23/2023,2.8,10,76,true,0
+3796001262,47,Female,Oklahoma,Platinum,50,2305.88,Industrial,9/24/2023,3.8,77,90,true,0
+2012767788,56,Female,Indiana,Silver,7,2264.74,Music,6/21/2023,1.2,55,87,false,1
+5670121457,29,Female,Michigan,Bronze,14,417.72,Grocery,1/02/2023,5.0,98,40,false,1
+8009065161,16,Male,Florida,Gold,40,1907.64,Sports,10/23/2023,4.5,99,65,false,0
+5588768329,29,Female,California,Gold,31,1921.5,Automotive,11/04/2023,3.4,109,71,true,1
+36664502,69,Female,Georgia,Platinum,41,671.31,Sports,9/11/2023,3.4,85,80,false,1
+3945662907,56,Female,Kentucky,Gold,9,2098.39,Electronics,4/02/2023,4.2,88,89,true,0
+4800535484,46,Female,California,Bronze,4,2005.51,Kids,8/01/2023,4.5,5,70,true,0
+5922769596,65,Female,California,Silver,21,281.3,Computers,12/11/2023,2.1,116,61,true,0
+8115631795,67,Male,California,Silver,49,,Toys,3/01/2023,4.4,77,9,false,0
+1881067777,59,Female,Utah,Silver,23,2247.4,Tools,10/22/2023,4.7,74,28,true,1
+6552618204,29,Female,Michigan,Bronze,44,1768.02,Kids,12/30/2023,4.7,114,79,true,0
+6183992119,70,Female,Pennsylvania,Bronze,33,483.08,Beauty,1/13/2023,3.0,82,45,true,0
+7057633327,44,Female,Texas,Platinum,24,967.89,Shoes,7/07/2023,4.6,79,59,true,1
+7761629978,34,Male,Louisiana,Gold,40,1499.17,Baby,5/21/2023,1.2,92,21,true,0
+4470633194,39,Female,,Silver,20,1600.49,Automotive,12/30/2023,2.4,106,100,false,1
+7699488385,35,Female,Washington,Bronze,31,2608.69,Tools,1/16/2023,3.9,37,14,false,1
+5070913417,20,Male,,Silver,16,297.81,Outdoors,2/10/2023,2.9,98,9,false,1
+7270431140,27,Male,Missouri,Silver,50,2038.49,Music,10/04/2023,1.4,45,19,false,1
+4534189249,56,Male,Wisconsin,Bronze,6,593.63,Tools,11/29/2023,3.4,98,75,false,0
+7267267831,41,Female,Virginia,Platinum,48,480.78,Tools,11/06/2023,3.2,39,42,false,0
+9382135545,69,Male,Texas,Silver,12,973.77,Games,5/03/2023,1.8,107,81,false,0
+9775584221,33,Female,Hawaii,Gold,32,2633.22,Jewelry,8/04/2023,2.3,75,84,false,1
+446417599,56,Male,Florida,Gold,45,2316.93,Shoes,4/14/2023,2.0,54,18,false,0
+594379245,60,Female,Ohio,Platinum,48,2273.14,Toys,7/21/2023,4.7,58,26,false,1
+9477785539,31,Female,Michigan,Platinum,7,560.36,Health,11/01/2023,3.3,64,42,true,1
+8333846270,37,Male,Michigan,Silver,45,267.3,Automotive,1/10/2023,2.2,77,27,true,1
+600214036,43,Female,Kentucky,Platinum,40,372.36,Electronics,8/03/2023,3.4,13,17,false,1
+3833854030,33,Male,District of Columbia,Gold,6,1632.35,Music,3/07/2023,3.7,19,55,true,1
+8964719204,34,Female,New York,Silver,8,448.21,Home,1/29/2023,2.7,30,54,true,0
+5493512629,29,Male,California,Silver,1,2431.57,Books,12/13/2023,3.4,35,33,true,1
+5766331789,65,Male,District of Columbia,Bronze,2,165.49,Garden,11/12/2023,3.3,43,60,true,1
+1735662550,44,Female,Missouri,Bronze,11,722.07,Beauty,11/13/2023,4.7,49,50,true,1
+1477567399,49,Female,Missouri,Bronze,40,2522.06,Outdoors,7/17/2023,4.9,77,86,false,0
+6856387377,30,Male,California,Gold,36,2870.03,Jewelry,12/24/2023,2.7,63,88,false,0
+262806932,38,Male,California,Silver,18,540.93,Books,6/27/2023,2.8,25,96,true,1
+9601134123,64,Female,Kansas,Bronze,36,1213.43,Books,2/15/2023,4.1,97,82,true,1
+7508142519,49,Female,South Carolina,Bronze,40,2963.96,Garden,11/03/2023,4.2,62,10,true,1
+786453656,35,Female,Indiana,Silver,44,1797.37,Movies,9/10/2023,3.0,41,25,true,1
+7177441581,70,Male,Texas,Bronze,28,291.43,Home,11/11/2023,1.4,54,44,false,0
+5324981532,31,Male,Arizona,Bronze,33,2051.79,Clothing,11/06/2023,4.4,52,55,false,0
+8267645950,66,Female,Texas,Gold,17,2642.44,Grocery,9/20/2023,3.3,49,62,false,1
+1028238436,49,Male,Hawaii,Bronze,44,2961.69,Toys,1/11/2023,2.6,48,30,false,0
+3660820237,47,Female,Texas,Platinum,47,2900.46,Beauty,10/21/2023,4.8,102,44,true,1
+3982249260,49,Male,Florida,Platinum,50,,Beauty,7/22/2023,1.6,19,66,false,1
+2946439712,41,Male,District of Columbia,Gold,44,2322.61,Baby,2/07/2023,3.0,7,62,false,0
+2741894949,62,Male,Louisiana,Platinum,13,2463.28,Music,11/20/2023,1.3,64,43,false,1
+9470549791,21,Female,Georgia,Gold,37,2372.97,Outdoors,3/01/2023,2.9,13,94,true,0
+1085878473,20,Male,California,Gold,36,1876.38,Shoes,9/13/2023,1.6,59,52,false,1
+6459906327,31,Female,California,Bronze,14,2037.76,Industrial,7/18/2023,2.3,92,39,false,0
+1348589035,24,Female,Minnesota,Bronze,34,624.56,Garden,5/27/2023,4.7,111,72,true,1
+8195566049,43,Male,Kansas,Gold,13,2761.56,Beauty,3/28/2023,1.4,37,96,false,1
+795807309,20,Male,West Virginia,Bronze,45,1403.5,Electronics,10/05/2023,4.6,38,10,true,1
+6867016561,41,Male,Indiana,Gold,15,730.64,Shoes,9/18/2023,,44,30,true,0
+6820145217,38,Male,Pennsylvania,Bronze,42,,Jewelry,10/27/2023,3.3,95,35,false,1
+5424289479,33,Male,Delaware,Silver,47,2621.76,Games,12/02/2023,1.4,108,95,true,0
+6394606723,49,Female,Washington,Gold,16,2408.58,Baby,12/27/2023,,31,7,true,0
+9067245070,43,Male,Minnesota,Silver,25,2802.52,Games,1/11/2023,1.5,18,39,true,1
+4313473440,39,Male,District of Columbia,Platinum,13,1934.24,Computers,12/26/2023,4.7,75,8,false,0
+7318388932,68,Female,Oregon,Silver,32,1804.54,Industrial,12/21/2023,3.1,30,38,true,1
+6128779301,24,Female,District of Columbia,Platinum,28,757.13,Movies,6/16/2023,4.5,50,13,true,1
+2828859460,60,Female,Michigan,Platinum,9,2722.01,Movies,6/02/2023,4.0,29,11,true,0
+6482933610,38,Female,Colorado,Gold,39,168.91,Grocery,3/02/2023,1.5,112,94,true,1
+6051497927,23,Male,Florida,Gold,42,2756.14,Industrial,6/30/2023,3.3,43,63,true,0
+2170904735,63,Female,Texas,Bronze,20,,Outdoors,9/23/2023,2.5,20,69,false,1
+2786676061,64,Female,Georgia,Bronze,9,1778.93,Automotive,2/02/2023,2.7,41,70,true,1
+6239403938,59,Male,Minnesota,Gold,30,359.58,Sports,9/29/2023,4.1,114,81,false,0
+2062788916,45,Male,Indiana,Silver,31,120.5,Games,6/01/2023,2.7,42,29,false,1
+1751293785,59,Female,Georgia,Platinum,28,,Automotive,7/08/2023,3.8,37,95,true,0
+3530623547,30,Female,Colorado,Bronze,26,2595.6,Home,11/02/2023,,27,20,false,0
+4270679328,44,Male,Colorado,Platinum,43,1227.51,Computers,12/06/2023,4.9,82,22,false,1
+7973061673,16,Male,Texas,Platinum,9,2987.63,Computers,12/25/2023,2.4,7,92,true,0
+3305309687,34,Female,Colorado,Gold,25,695.79,Computers,12/16/2023,3.4,109,87,true,0
+7896587947,63,Male,Florida,Platinum,47,933.36,Beauty,6/18/2023,4.3,93,51,true,1
+3613212870,47,Female,Florida,Gold,35,452.25,Tools,11/17/2023,2.7,29,84,true,0
+6012671016,35,Male,Delaware,Platinum,12,224.8,Electronics,4/02/2023,3.3,72,5,false,0
+8237992679,27,Female,Tennessee,Platinum,17,2819.21,Beauty,3/09/2023,3.9,34,77,true,0
+6691147316,42,Male,Delaware,Platinum,30,574.91,Grocery,9/17/2023,3.9,40,100,false,1
+2432490223,65,Male,Florida,Silver,20,723.62,Industrial,10/21/2023,4.3,24,70,true,0
+4849557643,46,Female,Texas,Bronze,12,1053.54,Jewelry,7/15/2023,3.4,16,56,true,1
+9444663280,22,Female,Nebraska,Platinum,2,952.25,Automotive,3/14/2023,2.8,13,13,true,0
+6866437407,43,Male,Delaware,Gold,36,1833.51,Garden,7/16/2023,4.8,60,86,true,0
+9077874402,46,Female,Mississippi,Gold,4,2683.77,Music,5/16/2023,4.6,44,5,false,0
+8771575316,27,Male,Kansas,Gold,47,1543.05,Electronics,1/08/2023,1.7,59,28,true,1
+7601521982,23,Female,Minnesota,Platinum,40,1485.27,Games,2/18/2023,1.0,5,61,true,0
+1070738115,33,Male,Massachusetts,Silver,45,2420.78,Health,11/18/2023,2.6,45,10,false,1
+2894031386,55,Male,Georgia,Platinum,23,2301.95,Automotive,6/23/2023,1.7,20,17,true,0
+9547922033,38,Female,Florida,Platinum,25,2664.36,Books,9/15/2023,4.6,43,13,false,1
+731319818,22,Male,California,Platinum,11,2993.92,Clothing,7/22/2023,1.4,112,99,false,0
+511572417,45,Male,Texas,Silver,25,507.19,Beauty,3/22/2023,3.8,118,36,true,1
+7398278950,62,Female,Oregon,Platinum,12,,Clothing,6/17/2023,3.1,35,25,false,0
+948471239,40,Female,California,Silver,32,1486.03,Kids,8/19/2023,4.4,93,69,false,0
+398773572,18,Female,Georgia,Bronze,33,2126.38,Baby,1/16/2023,4.3,96,94,false,1
+1289311358,40,Male,Georgia,Gold,16,1198.03,Health,11/26/2023,2.2,72,53,true,0
+2072894662,18,Male,Florida,Bronze,18,2485.6,Toys,9/03/2023,2.2,16,65,true,1
+6266160862,31,Female,Georgia,Gold,7,759.46,Garden,5/18/2023,2.2,43,91,false,0
+8997746952,24,Female,New Jersey,Bronze,20,,Games,7/22/2023,2.3,116,77,true,0
+6715960755,16,Female,District of Columbia,Silver,28,957.77,Games,7/13/2023,4.1,57,67,false,0
+7908521223,47,Male,Kansas,Gold,16,2610.42,Home,11/19/2023,2.8,10,83,true,0
+1529886848,46,Male,Arizona,Silver,21,956.99,Sports,8/31/2023,,109,45,false,1
+4257362502,38,Male,Ohio,Platinum,30,663.59,Home,11/04/2023,4.3,81,11,true,1
+2041733942,20,Female,Alabama,Bronze,8,,Books,6/26/2023,4.0,62,41,true,0
+3764906456,67,Male,Minnesota,Gold,33,2945.94,Shoes,12/16/2023,1.5,62,43,false,1
+529113988,70,Female,Minnesota,Platinum,3,352.84,Games,12/25/2023,4.1,42,33,false,0
+9380310102,35,Female,Florida,Gold,14,1244.14,Industrial,11/29/2023,1.5,77,26,true,0
+8707192215,26,Female,California,Silver,10,,Jewelry,2/11/2023,3.3,17,46,false,1
+6119592032,23,Male,Florida,Silver,9,590.38,Movies,5/08/2023,1.7,67,92,true,0
+5914604206,19,Male,California,Platinum,7,2919.34,Music,3/16/2023,1.2,14,29,true,0
+4389086766,16,Female,West Virginia,Gold,24,2745.61,Tools,9/04/2023,3.8,42,19,false,1
+7137923496,20,Female,Minnesota,Platinum,38,453.96,Baby,4/22/2023,4.7,29,100,true,1
+8703471810,40,Male,Colorado,Bronze,47,88.74,Movies,9/09/2023,2.9,35,68,false,0
+6297266344,63,Female,West Virginia,Gold,23,2858.31,Beauty,6/22/2023,2.7,39,63,true,0
+6005537415,31,Male,Michigan,Gold,46,1197.57,Toys,7/29/2023,1.0,119,6,false,1
+3975925442,31,Male,California,Bronze,17,762.48,Movies,12/03/2023,3.7,111,98,false,0
+7086055492,65,Male,South Carolina,Platinum,47,1682.12,Music,6/12/2023,2.9,24,25,false,1
+4968550936,63,Female,Minnesota,Platinum,13,2710.48,Sports,5/20/2023,2.9,117,14,true,0
+7445470174,51,Male,California,Bronze,5,2618.2,Garden,12/29/2023,3.4,92,18,false,1
+8285563855,53,Male,New Jersey,Bronze,26,455.71,Music,2/01/2023,4.8,117,67,true,0
+9839587358,34,Male,Texas,Platinum,42,2302.81,Beauty,9/19/2023,3.5,89,70,true,0
+2539074138,49,Male,Texas,Platinum,22,451.16,Clothing,2/17/2023,3.7,49,98,false,0
+6114413830,41,Male,Pennsylvania,Bronze,37,260.4,Toys,6/29/2023,4.1,119,82,false,0
+1907976248,20,Female,Illinois,Platinum,28,2755.13,Outdoors,7/11/2023,4.6,103,53,true,1
+1599313901,31,Male,Pennsylvania,Silver,43,2899.9,Shoes,4/17/2023,4.4,120,94,false,0
+1252628293,30,Female,Colorado,Silver,27,2682.12,Electronics,9/29/2023,,63,65,false,0
+8405619437,37,Male,Minnesota,Gold,2,1060.06,Jewelry,9/08/2023,2.1,68,38,false,0
+5270664763,69,Female,California,Silver,17,,Health,1/17/2023,3.7,110,99,false,1
+7475020878,42,Female,Florida,Gold,20,2873.73,Books,12/07/2023,,93,51,true,0
+3938543159,22,Male,California,Bronze,21,2503.43,Jewelry,9/30/2023,4.5,45,79,false,0
+3165084491,34,Male,Colorado,Silver,13,1017.66,Automotive,11/28/2023,2.2,120,83,true,1
+1190865904,59,Male,California,Gold,3,1557.9,Sports,12/09/2023,1.7,29,64,false,1
+2354970501,70,Female,Georgia,Platinum,20,1417.5,Baby,7/01/2023,1.6,51,86,false,1
+235100617,60,Female,Iowa,Platinum,37,1043.68,Computers,6/09/2023,4.7,31,62,true,1
+7066327888,70,Male,District of Columbia,Silver,31,2775.75,Books,7/08/2023,2.7,17,3,true,0
+5616667994,34,Female,Iowa,Platinum,37,2232.11,Computers,2/23/2023,2.4,60,45,true,1
+2787422284,65,Male,Arizona,Platinum,1,2535.68,Garden,5/21/2023,2.2,90,42,false,1
+9062690238,38,Female,Minnesota,Gold,10,252.64,Books,9/22/2023,5.0,59,46,false,1
+6670660278,47,Female,Texas,Gold,29,1050.17,Kids,2/26/2023,3.1,25,61,true,1
+3908192498,58,Male,West Virginia,Gold,46,,Electronics,2/15/2023,1.1,58,83,false,1
+5431022768,66,Female,Arizona,Silver,4,1783.62,Garden,10/06/2023,,111,80,true,0
+4050906783,18,Male,Washington,Platinum,50,2112.37,Baby,6/18/2023,2.3,60,88,false,1
+4612012380,52,Female,Arizona,Bronze,18,627.77,Health,5/03/2023,4.0,16,44,true,0
+7913138254,37,Female,Nebraska,Gold,10,1481.49,Games,4/01/2023,4.1,58,60,false,0
+6769831058,26,Male,Maryland,Platinum,35,560.54,Beauty,5/25/2023,4.0,15,69,false,0
+7073489278,26,Female,Tennessee,Platinum,41,2135.15,Toys,11/27/2023,2.7,34,11,true,1
+5255282367,20,Male,California,Bronze,42,1012.45,Grocery,1/02/2023,1.2,94,89,true,0
+3391749180,23,Female,Alaska,Bronze,31,771.83,Movies,8/16/2023,3.8,72,29,true,0
+7092510139,40,Male,Alabama,Gold,36,1734.07,Toys,1/20/2023,3.5,7,52,true,1
+9278978442,54,Female,Florida,Gold,4,2502.8,Games,10/17/2023,1.8,76,68,false,1
+3677137578,23,Female,California,Gold,23,1185.95,Jewelry,10/11/2023,2.5,82,32,true,0
+2876849046,57,Male,District of Columbia,Silver,39,2004.19,Health,5/10/2023,4.4,20,87,false,1
+9286475330,45,Female,Arizona,Gold,45,252.09,Computers,6/17/2023,,77,31,false,0
+895917602,61,Female,Texas,Silver,35,1065.26,Music,12/13/2023,1.7,41,74,true,1
+5133300530,21,Female,Ohio,Bronze,33,1302.81,Outdoors,2/23/2023,2.3,66,19,true,0
+146357612,70,Male,Virginia,Bronze,15,364.67,Beauty,4/24/2023,4.6,39,8,false,1
+524836205,53,Male,Utah,Bronze,39,1260.37,Electronics,10/17/2023,4.0,41,21,true,0
+8720375239,64,Male,Arizona,Bronze,28,,Sports,3/28/2023,1.4,52,58,true,1
+2886751510,63,Male,,Platinum,34,1519.5,Garden,2/08/2023,2.2,100,73,true,0
+6656214509,34,Male,Arkansas,Gold,25,1659.48,Games,5/22/2023,4.2,83,58,false,0
+3111442896,36,Female,Florida,Silver,1,2496.52,Clothing,12/22/2023,3.5,20,67,true,0
+6939468056,37,Male,Georgia,Platinum,48,2531.67,Kids,5/26/2023,1.5,115,14,true,0
+5908277053,58,Male,New York,Platinum,37,1402.38,Games,8/30/2023,3.0,76,67,false,1
+1948309548,20,Male,Alabama,Platinum,37,1658.17,Kids,8/13/2023,2.8,99,41,false,0
+3990764217,46,Female,,Silver,19,1785.0,Automotive,11/13/2023,1.5,35,53,false,1
+1757316094,52,Female,Colorado,Silver,21,788.53,Health,8/30/2023,3.1,110,86,false,1
+2876830868,50,Female,Tennessee,Silver,47,2050.01,Outdoors,12/01/2023,,101,22,false,0
+3828140432,33,Female,District of Columbia,Bronze,44,2826.69,Books,12/10/2023,2.9,26,59,true,1
+5340772942,64,Female,Florida,Platinum,24,537.04,Movies,6/23/2023,1.8,75,1,false,1
+4830348577,62,Female,California,Platinum,47,596.46,Sports,5/11/2023,2.1,95,95,false,1
+2612633898,50,Female,District of Columbia,Bronze,3,2957.48,Movies,8/13/2023,1.7,83,24,true,0
+670457582,60,Male,North Carolina,Silver,50,982.75,Automotive,10/24/2023,3.9,76,86,true,1
+9008798433,58,Female,Illinois,Gold,10,1437.56,Home,11/25/2023,1.0,117,52,true,0
+6897329819,26,Female,Idaho,Gold,4,,Games,7/16/2023,2.2,20,78,true,0
+5733466197,54,Female,Montana,Gold,46,226.12,Garden,12/08/2023,2.5,9,11,true,0
+874807719,29,Male,California,Bronze,47,,Electronics,12/27/2023,1.7,49,78,false,0
+5697407548,30,Male,Minnesota,Platinum,19,2732.97,Automotive,1/15/2023,3.6,9,93,true,0
+9760490048,67,Male,California,Gold,44,1699.62,Clothing,9/17/2023,2.1,103,34,true,1
+647025965,52,Female,Indiana,Gold,28,2171.15,Sports,7/07/2023,1.5,23,18,true,1
+4787418416,49,Female,New York,Silver,38,2025.63,Shoes,6/30/2023,2.9,60,22,true,1
+1459244575,45,Male,California,Platinum,39,304.42,Games,4/10/2023,4.4,15,98,true,0
+9725840194,19,Female,Missouri,Silver,17,2907.53,Shoes,1/24/2023,3.6,96,7,true,0
+2096156149,33,Female,New Jersey,Platinum,44,527.53,Computers,12/11/2023,1.4,110,71,true,0
+7778951142,65,Female,District of Columbia,Silver,39,591.17,Health,7/03/2023,4.2,84,18,true,1
+4654577378,18,Female,Tennessee,Bronze,8,512.26,Games,9/21/2023,1.7,6,31,true,1
+7509341833,45,Male,California,Silver,17,1000.4,Movies,3/03/2023,1.7,17,16,false,0
+5439420266,19,Female,New York,Silver,38,927.27,Computers,1/16/2023,4.6,48,99,true,1
+3249484008,56,Female,District of Columbia,Silver,28,2458.49,Outdoors,12/07/2023,2.7,66,43,true,1
+8013358666,26,Male,Texas,Bronze,32,2759.53,Clothing,12/12/2023,1.5,5,1,false,0
+9444257282,53,Female,California,Bronze,38,2558.29,Kids,8/31/2023,1.9,72,81,false,1
+4100542984,30,Male,New York,Platinum,43,1471.6,Tools,8/26/2023,2.5,84,32,true,0
+5589194962,32,Female,California,Gold,49,2664.31,Electronics,3/28/2023,1.1,103,65,false,1
+5507439745,63,Male,Connecticut,Bronze,31,2514.05,Music,8/13/2023,2.1,113,1,true,0
+3163448305,18,Male,Arizona,Bronze,12,2118.14,Health,11/05/2023,4.0,38,93,false,0
+4777789705,39,Female,Virginia,Platinum,22,,Grocery,11/22/2023,4.1,101,23,false,0
+1725377330,29,Male,Nebraska,Bronze,20,35.62,Tools,10/20/2023,4.5,104,14,true,1
+1748069772,18,Male,Texas,Silver,5,,Automotive,3/27/2023,,58,30,true,1
+2928678859,39,Female,Colorado,Bronze,30,1491.89,Automotive,2/24/2023,1.9,91,30,true,0
+9889833700,34,Female,Hawaii,Silver,27,888.55,Shoes,4/09/2023,2.5,76,49,true,1
+3638653218,53,Female,Utah,Platinum,24,1568.6,Games,8/03/2023,3.7,102,98,false,0
+781304571,70,Male,Texas,Silver,49,,Kids,1/24/2023,,76,77,false,0
+6099701451,53,Female,Minnesota,Platinum,23,166.8,Toys,1/08/2023,4.2,63,51,false,1
+3407686617,23,Male,New York,Silver,16,2576.69,Garden,7/27/2023,1.3,72,50,false,1
+7676236657,65,Male,Florida,Bronze,23,1300.19,Beauty,8/19/2023,,56,29,true,0
+8746841016,19,Female,Florida,Gold,32,547.58,Grocery,5/10/2023,4.3,41,44,false,1
+5033838555,66,Male,Ohio,Silver,30,279.78,Sports,9/13/2023,1.9,70,20,false,0
+152799311,54,Male,Louisiana,Platinum,45,2073.01,Grocery,7/08/2023,,32,84,false,0
+7672360639,21,Female,Florida,Silver,11,2292.13,Grocery,7/18/2023,,10,21,true,0
+9629812274,56,Male,Texas,Silver,29,2424.93,Automotive,5/18/2023,2.9,97,57,false,1
+8886280459,33,Male,Pennsylvania,Silver,15,341.05,Automotive,11/19/2023,4.4,12,85,false,0
+125292562,29,Male,Ohio,Bronze,24,2494.74,Health,11/12/2023,2.1,77,65,true,0
+8353980533,57,Female,Tennessee,Silver,14,1597.36,Kids,2/11/2023,2.3,119,41,true,0
+1632518678,25,Female,Indiana,Gold,27,,Games,4/14/2023,4.3,16,48,true,0
+9096792491,48,Female,Florida,Gold,47,2320.48,Toys,1/26/2023,4.3,103,90,true,0
+926846558,41,Female,Nevada,Platinum,1,1149.62,Sports,8/18/2023,2.1,25,10,false,1
+1060013606,45,Female,Virginia,Silver,4,537.71,Music,4/15/2023,3.1,51,97,true,1
+4506651979,63,Female,Texas,Silver,18,2903.62,Shoes,10/12/2023,3.7,108,12,false,1
+9970729535,44,Male,Texas,Bronze,17,,Tools,7/19/2023,4.8,83,80,true,0
+6259423969,27,Male,Indiana,Platinum,19,1675.66,Baby,2/11/2023,3.2,76,63,false,1
+3743811898,50,Female,Colorado,Silver,12,2844.46,Baby,7/14/2023,3.8,99,37,true,1
+9223434726,25,Female,Oklahoma,Bronze,36,316.29,Kids,12/12/2023,,75,27,false,0
+785533281,57,Female,Wisconsin,Gold,42,959.23,Computers,7/08/2023,1.1,48,22,false,0
+9998127408,69,Female,Idaho,Gold,41,334.51,Baby,10/28/2023,2.2,76,66,false,0
+2741410631,37,Male,Illinois,Bronze,21,1924.96,Automotive,5/23/2023,2.6,54,47,false,1
+3021065457,49,Female,Virginia,Platinum,21,358.22,Beauty,5/06/2023,2.0,11,96,true,0
+2454172143,67,Female,Connecticut,Gold,17,2064.36,Outdoors,11/02/2023,,84,11,false,0
+3080918851,28,Female,District of Columbia,Gold,12,181.19,Home,5/23/2023,4.1,92,5,false,1
+4038471551,36,Male,California,Bronze,22,,Beauty,5/10/2023,3.3,109,70,true,1
+6422760159,68,Female,Pennsylvania,Platinum,25,1717.96,Electronics,8/14/2023,3.4,108,70,false,1
+255179138,29,Male,Wisconsin,Gold,26,2341.05,Baby,8/15/2023,,105,39,false,0
+4616178836,31,Male,,Silver,20,337.49,Grocery,12/25/2023,3.7,52,81,false,1
+6855991424,16,Female,Colorado,Silver,16,,Computers,8/15/2023,2.3,95,46,true,1
+9656466519,32,Male,Texas,Platinum,6,871.04,Movies,9/06/2023,3.6,67,95,true,1
+3613167247,35,Male,Wisconsin,Gold,32,1751.11,Music,11/14/2023,4.2,100,62,false,1
+8260965178,59,Female,Nebraska,Silver,42,2247.43,Beauty,5/28/2023,4.7,25,71,true,1
+9449767505,61,Male,Montana,Silver,12,2419.0,Garden,2/14/2023,1.2,62,11,true,0
+126468923,66,Male,New York,Gold,32,2614.27,Kids,11/14/2023,4.7,51,69,true,0
+2635616914,54,Female,Virginia,Bronze,30,1148.45,Music,1/20/2023,4.9,58,34,false,0
+7264597849,56,Female,Florida,Silver,9,2216.75,Outdoors,1/21/2023,3.0,54,15,false,0
+5650656789,19,Female,Minnesota,Platinum,29,1743.9,Computers,11/15/2023,4.7,75,9,false,0
+5530783465,44,Female,Florida,Platinum,25,342.33,Home,8/04/2023,2.6,75,87,true,1
+5747409603,62,Male,New York,Bronze,35,1373.5,Baby,6/16/2023,2.4,9,51,true,0
+6435221375,52,Male,California,Bronze,28,1577.97,Baby,3/06/2023,2.6,119,40,true,1
+5703260221,60,Male,Texas,Gold,6,1355.58,Tools,10/05/2023,3.5,34,35,true,1
+4953762703,28,Male,Pennsylvania,Gold,31,2294.96,Toys,5/04/2023,1.4,37,29,true,1
+3075066273,46,Male,Tennessee,Silver,40,1433.92,Movies,4/09/2023,4.7,18,4,false,1
+3758133394,19,Male,Pennsylvania,Gold,19,567.41,Movies,7/22/2023,3.0,78,94,false,0
+9037819354,26,Male,Virginia,Gold,40,2502.17,Electronics,4/17/2023,1.6,28,71,true,1
+302121021,34,Female,Arizona,Platinum,5,1830.24,Tools,11/01/2023,3.5,70,53,true,1
+2039843833,64,Female,Texas,Silver,38,932.61,Clothing,6/04/2023,4.9,115,100,false,0
+1403552479,26,Female,Tennessee,Platinum,43,1981.81,Jewelry,7/21/2023,4.9,92,86,true,1
+4099786641,62,Female,Texas,Silver,5,2858.01,Grocery,2/04/2023,4.2,66,55,true,0
+844797243,30,Male,Michigan,Bronze,34,1856.69,Games,7/03/2023,2.2,62,37,false,0
+5112255196,57,Male,Florida,Platinum,25,1662.14,Outdoors,8/16/2023,3.9,71,61,false,0
+1488992975,57,Male,California,Gold,4,2092.43,Health,5/19/2023,2.2,34,12,true,0
+1899707883,27,Female,Nevada,Gold,20,1406.37,Toys,10/31/2023,4.5,97,31,true,0
+6998433468,69,Male,Washington,Bronze,12,,Outdoors,9/28/2023,4.6,34,57,true,1
+2676623168,24,Male,California,Platinum,20,1669.69,Games,10/18/2023,3.2,36,12,false,1
+7783212646,65,Female,Minnesota,Gold,17,620.99,Jewelry,3/15/2023,3.5,12,48,true,0
+9979297026,59,Female,Ohio,Bronze,18,2872.52,Sports,8/06/2023,1.4,6,7,true,0
+8062502775,64,Male,Virginia,Platinum,34,2951.9,Toys,9/16/2023,3.3,39,5,false,0
+1629978639,70,Male,Virginia,Gold,37,1258.86,Grocery,8/30/2023,2.5,74,2,true,0
+2170940073,35,Male,Arizona,Bronze,12,1521.46,Movies,4/26/2023,2.0,67,22,false,0
+7211382406,27,Male,Washington,Bronze,44,1746.11,Sports,8/11/2023,4.3,94,31,true,1
+338129197,31,Female,Ohio,Silver,8,1449.4,Home,2/04/2023,4.8,16,86,true,1
+8471693585,36,Female,Texas,Silver,20,1032.43,Books,12/29/2023,4.8,86,20,true,1
+8564917572,54,Male,Minnesota,Silver,15,2955.35,Kids,3/27/2023,3.4,73,46,true,0
+4337912436,45,Female,Nebraska,Silver,44,626.01,Computers,11/08/2023,2.6,70,73,false,1
+3265271625,32,Female,Texas,Gold,31,2562.52,Movies,11/01/2023,1.3,12,33,true,1
+6108959789,49,Female,New York,Silver,44,2230.19,Tools,2/23/2023,,91,20,true,1
+224923153,27,Male,Texas,Platinum,22,477.75,Home,12/04/2023,1.6,105,49,true,1
+5373367400,37,Male,Missouri,Gold,48,1217.38,Movies,2/06/2023,4.8,97,37,false,0
+5217739169,37,Female,Texas,Platinum,1,880.07,Clothing,8/23/2023,3.7,106,39,false,1
+6187954696,55,Male,Wisconsin,Bronze,32,1256.83,Sports,10/18/2023,3.5,72,64,true,1
+1319285392,36,Female,Oregon,Gold,38,,Tools,8/05/2023,1.9,13,23,true,1
+257103678,16,Male,California,Bronze,30,1998.31,Baby,6/19/2023,2.0,55,20,false,1
+5002946836,53,Male,Florida,Gold,26,,Outdoors,11/14/2023,3.2,43,86,true,1
+6501832446,21,Female,Minnesota,Gold,33,1550.04,Baby,9/16/2023,4.4,108,24,true,1
+4394743095,63,Female,West Virginia,Bronze,15,2130.63,Home,12/25/2023,1.7,112,18,true,1
+3562992866,65,Male,District of Columbia,Bronze,29,2916.2,Automotive,5/05/2023,,74,21,false,0
+2020332663,68,Male,Colorado,Silver,36,,Clothing,8/26/2023,3.6,76,84,false,0
+8228539797,28,Female,Florida,Bronze,15,2826.53,Kids,2/04/2023,1.3,49,70,false,0
+6831994741,54,Male,Texas,Platinum,30,338.05,Automotive,9/25/2023,3.0,57,21,false,0
+474132056,50,Female,Oklahoma,Silver,8,239.42,Baby,3/08/2023,4.6,107,31,true,1
+2562497619,17,Female,Pennsylvania,Gold,46,2039.88,Grocery,5/11/2023,1.7,85,89,true,0
+4125904251,23,Female,Idaho,Gold,34,531.23,Jewelry,12/02/2023,1.8,107,30,true,1
+7312728618,68,Female,California,Gold,32,,Kids,6/23/2023,3.4,43,30,false,1
+8600803365,51,Male,Indiana,Platinum,37,169.6,Clothing,9/19/2023,3.9,105,80,false,1
+14695960,57,Female,Arizona,Bronze,21,128.7,Automotive,10/04/2023,1.1,111,76,false,1
+1278144730,65,Male,Hawaii,Silver,17,,Movies,2/07/2023,,13,93,true,1
+797486755,16,Female,West Virginia,Platinum,25,283.86,Clothing,8/28/2023,2.9,40,78,false,0
+8915512634,56,Female,Washington,Platinum,3,,Health,2/21/2023,4.3,59,34,true,0
+3117354573,59,Male,California,Silver,11,,Grocery,5/29/2023,2.8,47,83,false,0
+6206388212,60,Male,New Mexico,Silver,42,1482.51,Computers,3/22/2023,1.5,40,69,false,0
+3464861759,22,Female,Oklahoma,Silver,9,,Home,5/02/2023,4.5,118,23,true,0
+9762634667,64,Male,Washington,Silver,35,1893.44,Shoes,4/26/2023,4.6,111,97,true,0
+8092396655,26,Female,Texas,Silver,6,1665.27,Outdoors,8/23/2023,,112,55,true,1
+1559610077,57,Male,New York,Bronze,37,1676.46,Electronics,10/11/2023,3.9,54,6,true,0
+423433040,60,Male,Minnesota,Bronze,2,231.52,Garden,4/30/2023,3.1,19,73,false,0
+1435183665,65,Male,Indiana,Platinum,28,2670.78,Computers,7/25/2023,3.0,31,68,false,0
+2402862157,30,Female,Michigan,Silver,45,2097.96,Music,3/03/2023,3.9,19,57,true,0
+7681578609,68,Female,Colorado,Platinum,17,,Grocery,6/26/2023,1.8,78,43,true,0
+3842647808,43,Male,Virginia,Bronze,46,1339.8,Baby,1/28/2023,4.6,17,1,false,0
+6884977930,33,Male,California,Bronze,32,1414.29,Electronics,1/24/2023,,76,46,true,0
+7600920654,58,Female,Nebraska,Platinum,49,2783.22,Movies,9/21/2023,4.7,109,28,false,1
+8945669442,50,Female,Texas,Platinum,41,1563.38,Outdoors,5/04/2023,,55,42,true,0
+6473736824,47,Female,Arizona,Gold,28,2239.8,Computers,5/14/2023,4.5,112,77,true,1
+4645822314,16,Female,Illinois,Platinum,30,34.98,Toys,7/24/2023,4.5,85,34,true,1
+8254385238,28,Male,Minnesota,Platinum,16,1399.34,Computers,10/08/2023,3.6,108,14,false,0
+7572760112,29,Female,Tennessee,Silver,30,1829.17,Outdoors,3/11/2023,2.4,84,35,true,1
+1340895498,61,Female,Idaho,Bronze,50,1987.31,Music,12/12/2023,2.3,103,17,false,0
+1575421348,54,Female,Washington,Silver,2,2312.85,Toys,2/14/2023,2.5,119,46,true,0
+6887930366,54,Male,Vermont,Platinum,13,2000.85,Electronics,10/10/2023,3.6,9,32,false,1
+2823332944,27,Female,Massachusetts,Silver,38,1060.78,Home,5/16/2023,3.8,21,15,true,0
+1941958842,42,Female,California,Gold,26,1690.85,Electronics,7/26/2023,3.2,11,63,false,0
+7224725196,23,Male,North Carolina,Gold,36,2036.34,Clothing,5/03/2023,1.6,25,34,true,1
+6746634086,30,Male,California,Silver,30,134.29,Beauty,6/12/2023,2.1,118,33,false,1
+2949141765,34,Female,Washington,Platinum,38,,Toys,1/20/2023,2.4,74,84,false,0
+6387669162,27,Male,Texas,Silver,22,1493.18,Health,9/07/2023,4.6,87,57,false,0
+3623421499,35,Male,Arizona,Bronze,13,46.15,Outdoors,2/19/2023,3.6,87,28,true,0
+2621137806,68,Male,Connecticut,Platinum,14,1985.12,Home,3/13/2023,1.2,88,82,false,0
+1342669304,59,Male,District of Columbia,Bronze,8,2497.24,Industrial,2/13/2023,3.2,12,54,true,1
+4352071250,32,Female,Minnesota,Gold,35,1127.76,Electronics,11/26/2023,4.6,47,44,true,0
+4825708609,24,Female,New York,Bronze,34,1966.45,Garden,9/26/2023,4.6,36,83,false,1
+6922622421,62,Male,Michigan,Bronze,23,1489.06,Industrial,4/06/2023,5.0,100,47,true,0
+8152938440,47,Male,California,Bronze,34,1923.18,Shoes,7/31/2023,3.8,23,88,true,1
+9014797516,49,Female,Texas,Gold,18,1701.94,Jewelry,11/29/2023,4.3,35,22,false,0
+6897557366,45,Female,New York,Bronze,30,374.47,Automotive,3/25/2023,1.9,35,78,false,0
+8292376356,32,Female,California,Silver,25,1887.34,Movies,10/27/2023,4.0,73,71,true,1
+6734840018,30,Male,Ohio,Gold,38,919.36,Health,11/07/2023,1.3,63,59,false,1
+8531299578,29,Male,Texas,Bronze,2,2330.77,Grocery,8/10/2023,3.5,92,15,false,0
+7101387756,39,Male,Virginia,Silver,8,1335.86,Baby,1/24/2023,1.9,55,51,false,1
+6903216316,17,Male,West Virginia,Silver,37,1919.22,Jewelry,3/17/2023,2.6,73,51,false,1
+6591911502,20,Male,Virginia,Platinum,15,1315.18,Clothing,10/30/2023,3.8,118,44,false,0
+7369944719,39,Male,California,Gold,12,722.43,Jewelry,4/20/2023,4.5,33,93,true,0
+3071876874,69,Male,Washington,Gold,35,1194.62,Baby,7/23/2023,2.5,59,35,false,0
+5206659762,27,Female,Tennessee,Bronze,43,455.92,Sports,10/15/2023,3.5,113,13,false,0
+989617777,42,Female,Texas,Silver,39,1393.89,Jewelry,12/06/2023,1.7,117,23,false,0
+4602454917,22,Male,,Gold,29,835.29,Shoes,7/05/2023,3.2,69,86,true,0
+5832073843,43,Male,New York,Gold,37,574.33,Games,3/18/2023,1.8,15,1,false,1
+6246232469,35,Female,Oregon,Bronze,4,381.72,Games,1/23/2023,3.8,62,45,true,0
+1585367761,58,Male,Arizona,Platinum,39,61.17,Tools,2/09/2023,1.1,21,80,false,0
+694325481,39,Male,Wisconsin,Silver,24,1528.75,Jewelry,1/31/2023,1.8,77,68,true,1
+3763749209,66,Female,Florida,Platinum,9,396.33,Automotive,12/15/2023,1.6,104,71,true,0
+6018261928,18,Male,Texas,Platinum,5,2232.05,Sports,8/01/2023,3.7,86,54,false,0
+3099464759,66,Female,Nebraska,Gold,30,955.3,Home,10/20/2023,3.5,27,1,true,0
+3614545903,24,Female,Minnesota,Bronze,16,1872.94,Clothing,1/13/2023,3.9,65,100,true,1
+7141403175,60,Female,Kentucky,Bronze,45,1439.82,Computers,6/06/2023,3.9,82,2,true,1
+4276701260,19,Female,Missouri,Platinum,29,472.33,Garden,7/09/2023,1.3,21,78,false,0
+630207577,70,Male,Colorado,Bronze,50,,Baby,3/07/2023,3.8,119,94,false,1
+378027514,51,Male,California,Gold,13,1291.37,Beauty,12/22/2023,3.1,31,20,true,1
+9918784288,61,Female,Oklahoma,Bronze,29,,Kids,5/20/2023,,42,56,true,0
+5403417729,62,Female,Oklahoma,Bronze,15,,Electronics,11/14/2023,1.6,64,37,false,0
+5748620049,49,Female,New York,Platinum,14,2418.7,Games,6/27/2023,2.3,119,86,true,0
+9291536318,62,Female,Ohio,Gold,49,1611.13,Health,3/22/2023,1.1,62,16,false,1
+6699759221,52,Male,Florida,Gold,18,,Computers,12/14/2023,4.8,12,57,true,0
+3055711319,45,Male,Missouri,Platinum,15,968.96,Home,10/05/2023,1.7,110,59,false,0
+2035636299,60,Male,California,Gold,20,2563.93,Tools,4/13/2023,1.6,114,18,true,1
+3090380129,51,Female,Indiana,Silver,31,1997.38,Shoes,4/02/2023,,16,68,true,0
+8867229141,64,Male,Alabama,Bronze,17,1664.32,Outdoors,10/14/2023,2.7,65,25,false,1
+2237885494,44,Female,Washington,Gold,16,2914.93,Kids,10/26/2023,2.1,83,85,true,1
+2687899232,17,Male,Hawaii,Platinum,24,2642.95,Baby,9/27/2023,4.0,83,42,false,0
+6953206330,68,Female,Kansas,Platinum,33,724.38,Jewelry,9/12/2023,4.6,20,26,false,0
+1359088989,52,Male,New York,Platinum,15,1956.81,Industrial,4/13/2023,4.5,30,2,false,1
+9705034958,26,Female,Illinois,Silver,25,2115.51,Health,10/12/2023,3.3,64,37,true,0
+9584811126,24,Male,New York,Bronze,15,1751.08,Sports,11/10/2023,,95,86,true,0
+6386056051,51,Male,Maine,Gold,45,2011.96,Grocery,4/05/2023,4.2,41,38,false,1
+7238585472,69,Male,Arizona,Bronze,20,2741.99,Clothing,9/01/2023,3.1,17,30,true,1
+5501092662,44,Male,California,Gold,16,1029.16,Garden,10/02/2023,1.6,57,90,true,1
+9653524992,23,Female,Texas,Gold,33,2733.72,Sports,1/27/2023,2.9,100,4,true,0
+4045841881,53,Male,Florida,Bronze,3,1677.75,Sports,12/12/2023,2.3,39,49,false,1
+1104795221,18,Female,California,Silver,17,1642.6,Baby,12/06/2023,2.2,95,95,true,0
+5931499377,53,Female,Florida,Bronze,16,,Industrial,12/30/2023,1.5,10,66,true,0
+2733374168,24,Male,Kentucky,Gold,24,1480.3,Books,11/20/2023,1.0,112,68,false,1
+9078564997,22,Female,Missouri,Silver,20,,Shoes,4/17/2023,3.7,32,70,false,1
+209658770,29,Female,Texas,Platinum,45,769.36,Toys,7/14/2023,1.7,50,70,true,1
+671778374,69,Male,Michigan,Platinum,48,814.48,Automotive,5/28/2023,4.0,101,42,true,0
+611841711,35,Male,New York,Silver,33,2607.18,Automotive,10/29/2023,3.1,29,38,false,0
+4822915131,55,Male,Florida,Bronze,29,2014.65,Baby,8/22/2023,3.8,78,43,false,0
+1190986663,56,Female,New York,Gold,43,,Grocery,8/08/2023,3.8,89,42,true,0
+2494821959,52,Male,,Platinum,35,1354.88,Automotive,10/04/2023,,66,35,false,1
+4314637943,44,Male,Louisiana,Gold,2,,Toys,6/16/2023,4.6,34,50,false,0
+8656778757,62,Male,Massachusetts,Silver,5,2374.01,Books,8/07/2023,4.1,68,27,false,0
+374125880,69,Male,California,Bronze,11,2688.09,Automotive,10/17/2023,3.4,51,87,true,1
+8176165670,64,Female,Louisiana,Bronze,9,331.99,Music,4/18/2023,1.6,13,99,false,0
+5707796509,43,Male,Kansas,Platinum,30,2331.43,Health,6/04/2023,1.3,11,15,true,1
+3173690486,29,Male,Tennessee,Gold,14,601.86,Shoes,2/20/2023,3.9,117,4,true,1
+5010129175,63,Male,South Carolina,Silver,20,486.52,Industrial,7/31/2023,1.2,82,31,false,1
+9155791751,44,Female,Illinois,Silver,48,1128.88,Health,1/20/2023,4.2,65,67,false,0
+2289879185,52,Female,Georgia,Gold,47,2077.21,Games,3/31/2023,1.9,106,86,true,1
+6608147619,16,Female,Indiana,Gold,19,164.27,Beauty,5/01/2023,3.0,119,37,true,0
+1443193577,37,Male,Ohio,Platinum,21,2200.29,Garden,11/14/2023,1.4,24,8,true,0
+8230584842,53,Male,Minnesota,Silver,24,1967.81,Beauty,9/13/2023,2.1,53,72,true,1
+9323381063,62,Female,District of Columbia,Gold,43,2303.39,Outdoors,5/04/2023,2.2,14,63,false,0
+2369535407,53,Male,California,Gold,18,782.64,Kids,8/31/2023,2.1,78,26,true,0
+2403550256,50,Male,Alabama,Bronze,3,2269.77,Garden,7/29/2023,2.0,53,39,true,1
+3906916642,21,Female,Texas,Bronze,12,325.36,Health,9/26/2023,1.9,45,87,false,0
+1417845732,65,Female,Virginia,Platinum,6,1543.96,Jewelry,8/15/2023,3.3,35,61,false,1
+477260918,29,Female,Pennsylvania,Bronze,46,871.73,Clothing,7/30/2023,1.2,104,13,true,0
+9051756089,33,Female,Nebraska,Gold,39,2119.21,Music,1/20/2023,2.1,88,92,true,1
+9225539673,25,Male,Nevada,Bronze,2,2005.59,Games,6/20/2023,1.7,99,68,true,0
+3560612675,51,Female,Nevada,Silver,28,2702.95,Books,10/10/2023,1.4,61,16,true,0
+4769780575,25,Female,Texas,Bronze,13,351.08,Industrial,2/23/2023,2.0,66,94,true,1
+8862170807,19,Male,Ohio,Silver,41,2208.67,Industrial,4/08/2023,4.6,34,87,true,0
+8428628416,19,Female,Virginia,Silver,44,1236.95,Clothing,3/07/2023,2.3,12,73,false,1
+7346162242,70,Female,Nevada,Silver,3,2451.6,Movies,10/03/2023,4.5,65,28,false,1
+6390557752,48,Male,California,Gold,11,2563.8,Health,7/11/2023,2.9,39,85,true,0
+7673752115,69,Male,Utah,Bronze,3,1121.56,Books,11/16/2023,4.4,87,73,true,1
+5709835749,68,Female,California,Platinum,4,2777.7,Music,6/29/2023,2.9,119,55,true,1
+3822479551,60,Male,Florida,Bronze,30,2980.73,Baby,12/25/2023,1.1,78,69,true,1
+8826619891,29,Male,Missouri,Platinum,22,1008.0,Clothing,11/23/2023,1.1,92,40,true,0
+9594970812,36,Female,Oklahoma,Bronze,9,494.43,Sports,6/17/2023,1.2,74,63,false,1
+85423017,67,Male,District of Columbia,Bronze,28,1941.26,Sports,9/10/2023,3.4,78,34,true,1
+1616874368,56,Male,District of Columbia,Platinum,43,1079.22,Tools,1/15/2023,1.7,111,75,true,0
+4230886918,33,Female,California,Platinum,22,,Books,12/18/2023,2.3,21,30,false,1
+7707141121,25,Female,Illinois,Bronze,34,1250.21,Movies,10/20/2023,4.1,35,90,true,1
+6887595281,27,Female,California,Platinum,28,195.77,Kids,4/29/2023,2.1,24,77,false,0
+683886894,61,Male,Texas,Gold,15,1917.14,Outdoors,3/31/2023,2.2,32,84,true,1
+8399280321,20,Male,Florida,Bronze,42,234.73,Toys,1/26/2023,3.9,72,23,false,0
+1019145323,46,Male,Utah,Platinum,43,1859.01,Music,4/08/2023,4.2,80,55,true,0
+1384710701,36,Female,Colorado,Bronze,1,1322.3,Automotive,4/19/2023,,74,20,true,1
+9298903804,67,Male,,Platinum,5,2122.95,Health,12/03/2023,1.7,81,81,false,1
+8292121005,55,Male,New York,Platinum,46,2676.9,Shoes,7/22/2023,1.8,56,25,false,1
+520680022,34,Male,Oregon,Bronze,16,1269.8,Clothing,1/27/2023,1.0,48,13,true,0
+1770440429,49,Male,Ohio,Gold,12,2092.69,Shoes,1/28/2023,1.6,111,47,true,1
+269508503,60,Male,North Carolina,Bronze,40,2152.9,Shoes,2/11/2023,4.2,64,53,true,1
+1261955927,19,Male,Arkansas,Bronze,7,395.39,Garden,9/27/2023,4.0,24,99,true,1
+1218904364,52,Male,Michigan,Bronze,2,892.75,Movies,10/07/2023,3.5,86,16,true,0
+2587175933,56,Female,Kansas,Silver,42,2145.0,Outdoors,11/19/2023,1.3,86,55,false,1
+3631461275,55,Female,Minnesota,Bronze,27,2927.16,Kids,7/14/2023,3.6,30,54,true,0
+5977474709,53,Female,West Virginia,Silver,47,558.02,Baby,4/21/2023,1.2,69,82,false,0
+4401078853,59,Female,Texas,Gold,11,2956.51,Clothing,12/24/2023,1.3,120,99,true,1
+9232111861,32,Female,Alabama,Bronze,44,1722.81,Toys,6/21/2023,2.8,76,100,true,1
+6877818024,37,Male,California,Bronze,5,782.3,Jewelry,6/01/2023,1.2,33,45,true,1
+4136840969,57,Male,North Carolina,Gold,39,2662.98,Movies,12/08/2023,2.7,18,7,true,1
+5550197642,37,Female,California,Silver,16,1620.97,Clothing,4/04/2023,3.0,117,60,true,1
+2581448075,18,Male,North Carolina,Gold,46,1500.5,Movies,3/30/2023,,76,32,false,0
+997522704,53,Female,Texas,Bronze,34,2737.98,Beauty,8/11/2023,3.9,90,77,true,1
+5609743265,46,Male,Florida,Gold,31,2404.33,Grocery,3/16/2023,3.7,9,34,false,1
+7462811383,33,Female,South Carolina,Platinum,39,2790.83,Kids,12/08/2023,3.1,97,86,true,0
+4331170853,40,Male,Colorado,Silver,35,2311.9,Games,7/09/2023,4.5,117,90,true,0
+6183166626,24,Male,Texas,Platinum,11,,Industrial,4/17/2023,1.3,8,61,true,1
+1807807401,31,Male,Massachusetts,Bronze,35,1051.01,Clothing,9/27/2023,3.2,54,94,true,0
+9009149773,54,Female,California,Bronze,20,1128.4,Electronics,5/19/2023,4.3,25,37,true,1
+1754408826,38,Male,Indiana,Platinum,44,1849.38,Electronics,10/30/2023,1.9,9,65,false,1
+2425641653,28,Male,Delaware,Platinum,6,1032.44,Jewelry,10/28/2023,4.6,52,56,true,0
+1471465748,66,Female,New York,Platinum,27,66.65,Sports,10/17/2023,,22,26,false,1
+4795279241,43,Female,Missouri,Platinum,17,,Industrial,10/13/2023,1.7,99,27,false,1
+2526833868,26,Female,Missouri,Platinum,3,459.43,Kids,5/07/2023,2.8,68,25,true,1
+6586524105,61,Female,,Gold,3,2129.88,Home,11/02/2023,2.3,114,79,true,1
+1344032133,31,Male,,Bronze,38,2072.61,Computers,12/14/2023,2.9,41,96,false,1
+1556273916,18,Male,Ohio,Silver,37,1193.03,Electronics,7/11/2023,3.4,119,54,true,0
+6035086489,18,Female,New York,Silver,19,2755.9,Books,8/20/2023,2.3,94,15,true,0
+3148814002,21,Male,New York,Platinum,9,2960.45,Industrial,7/10/2023,4.4,91,77,false,1
+6012154844,22,Female,Georgia,Gold,27,2526.37,Toys,2/04/2023,2.0,29,22,false,0
+2451693258,66,Female,Pennsylvania,Gold,21,,Kids,5/03/2023,1.0,72,35,false,1
+2077340789,22,Male,New Jersey,Bronze,1,1254.14,Computers,8/23/2023,1.2,26,35,true,1
+8072492713,67,Male,Tennessee,Platinum,31,164.69,Beauty,7/23/2023,1.2,73,85,false,1
+6861055654,29,Male,Connecticut,Gold,28,1793.73,Electronics,7/11/2023,4.7,13,80,false,1
+3184988775,53,Female,Massachusetts,Bronze,49,1795.7,Baby,8/22/2023,3.8,24,14,false,0
+5281730851,57,Female,California,Gold,27,2937.17,Books,1/14/2023,4.3,42,60,true,0
+3712200196,25,Male,Pennsylvania,Platinum,38,1692.9,Tools,7/13/2023,4.8,108,18,true,1
+2472115458,26,Male,Colorado,Platinum,29,1904.47,Electronics,4/07/2023,1.4,107,35,true,1
+6174588424,36,Female,Missouri,Platinum,11,1581.97,Electronics,6/30/2023,4.1,80,67,false,1
+6954634654,62,Male,Texas,Bronze,19,164.05,Industrial,7/20/2023,3.9,35,4,false,0
+1766386482,21,Male,Florida,Silver,37,327.8,Electronics,10/26/2023,1.4,118,68,false,1
+743415655,61,Male,North Carolina,Platinum,49,1137.54,Beauty,11/21/2023,1.6,43,4,true,0
+3935263996,60,Female,North Carolina,Gold,42,699.62,Movies,3/28/2023,4.6,97,58,true,0
+4026527409,17,Male,Florida,Gold,27,2744.43,Computers,8/01/2023,4.9,23,90,true,0
+4706103657,58,Female,Georgia,Platinum,27,294.74,Shoes,7/27/2023,2.8,99,72,false,0
+1159013152,24,Female,Louisiana,Gold,46,,Grocery,1/16/2023,3.9,120,31,false,0
+4068844305,52,Female,Texas,Silver,20,52.53,Grocery,6/17/2023,2.8,36,3,false,1
+6180156557,51,Male,Wisconsin,Platinum,36,135.61,Toys,3/03/2023,,66,99,false,0
+5400621872,24,Female,Idaho,Platinum,43,2592.87,Automotive,2/19/2023,2.1,109,51,false,0
+4257119012,64,Female,,Gold,26,1127.0,Tools,6/04/2023,1.8,65,6,false,1
+7167846775,17,Male,District of Columbia,Bronze,6,2309.16,Health,6/07/2023,1.6,52,31,false,0
+5155308062,64,Male,Colorado,Bronze,25,2906.9,Books,5/12/2023,2.5,47,100,true,0
+259418374,31,Male,Washington,Bronze,28,,Kids,2/12/2023,3.8,46,66,false,0
+5185298502,22,Female,Indiana,Platinum,15,,Music,6/12/2023,2.4,91,75,true,0
+578374781,55,Male,Illinois,Platinum,49,528.28,Home,9/20/2023,3.2,70,77,true,1
+538283572,19,Female,Nebraska,Gold,48,1754.6,Beauty,8/16/2023,1.1,54,89,false,1
+5805650800,51,Male,Kansas,Silver,13,2743.16,Baby,3/12/2023,1.3,108,66,true,0
+1132398053,63,Male,Indiana,Bronze,49,2086.79,Kids,12/20/2023,4.7,72,65,true,0
+8544822398,36,Female,Utah,Platinum,45,2018.84,Grocery,7/06/2023,3.2,48,91,true,0
+6894170487,18,Male,North Carolina,Silver,14,1785.99,Home,2/22/2023,3.9,94,54,true,0
+4009108428,29,Male,Georgia,Platinum,30,1571.89,Shoes,6/30/2023,4.5,99,58,true,0
+3754384244,41,Male,California,Silver,16,943.95,Automotive,11/10/2023,4.6,49,40,false,0
+4784070877,16,Male,Florida,Silver,30,109.88,Music,11/18/2023,3.3,30,32,false,0
+6311759462,56,Male,Texas,Silver,2,1531.1,Industrial,2/09/2023,,88,40,true,1
+2158815167,52,Male,Texas,Bronze,15,2328.12,Clothing,7/31/2023,2.7,40,35,true,0
+2219632814,63,Male,Texas,Bronze,10,2385.01,Shoes,7/31/2023,3.2,39,4,false,0
+6629071999,62,Male,Ohio,Bronze,33,597.41,Home,10/13/2023,1.7,93,68,false,0
+2815386194,36,Female,California,Bronze,17,1121.0,Music,5/09/2023,1.6,102,68,false,0
+5853595253,22,Female,Colorado,Platinum,29,1629.76,Baby,11/24/2023,4.4,104,23,false,1
+6543567376,40,Male,Tennessee,Gold,33,2296.87,Movies,10/29/2023,1.9,67,62,false,0
+5193750702,41,Male,Ohio,Gold,7,2149.62,Automotive,12/26/2023,1.7,22,27,false,0
+4824845823,45,Male,Tennessee,Bronze,24,411.42,Home,11/18/2023,1.8,111,67,true,0
+8878764337,39,Male,Tennessee,Gold,21,2254.7,Electronics,6/24/2023,1.8,84,37,false,0
+1486187420,37,Female,Florida,Platinum,19,1070.91,Music,9/15/2023,4.0,111,55,false,1
+7900500863,48,Female,Indiana,Gold,45,396.94,Toys,5/16/2023,4.8,53,11,true,1
+7760086601,23,Male,District of Columbia,Platinum,46,682.12,Baby,12/19/2023,4.6,50,50,true,0
+8986726831,68,Male,Arizona,Silver,46,2642.28,Computers,11/04/2023,5.0,98,50,true,0
+2074803044,29,Male,Florida,Gold,7,1438.34,Outdoors,4/15/2023,,90,47,true,0
+9465698121,30,Male,Texas,Platinum,21,79.47,Movies,5/25/2023,3.0,6,57,true,0
+5897326444,56,Female,Texas,Platinum,27,434.84,Home,4/27/2023,4.0,79,97,false,0
+505357577,25,Male,,Bronze,22,1804.72,Shoes,6/16/2023,,75,1,true,1
+6213317724,33,Female,California,Bronze,6,2889.89,Shoes,5/11/2023,3.5,27,94,true,1
+3074649453,68,Female,Montana,Silver,3,1768.81,Computers,8/10/2023,4.4,111,81,false,1
+8397717927,68,Female,Indiana,Platinum,22,897.06,Music,3/06/2023,4.6,117,91,true,0
+6741774394,22,Female,Indiana,Platinum,50,2455.59,Jewelry,11/01/2023,2.5,14,71,true,1
+2265692794,70,Female,Ohio,Bronze,36,535.63,Books,3/04/2023,2.1,18,46,false,0
+1925269892,35,Female,Texas,Platinum,28,1100.65,Music,10/22/2023,4.6,53,40,true,1
+4240917123,54,Female,Florida,Bronze,20,1563.39,Books,12/01/2023,1.6,23,81,false,1
+4896589947,23,Male,Alabama,Bronze,9,436.03,Electronics,12/30/2023,3.3,9,2,false,0
+7845494011,43,Female,Florida,Silver,37,166.41,Home,6/22/2023,5.0,22,18,true,1
+6551941028,33,Male,Mississippi,Bronze,40,1410.77,Toys,1/28/2023,3.7,43,81,true,0
+2221361695,30,Female,California,Silver,38,2515.8,Home,1/06/2023,3.7,79,79,true,1
+93236395,17,Male,Pennsylvania,Silver,12,895.36,Clothing,8/14/2023,3.4,65,42,true,0
+7565605921,23,Male,West Virginia,Gold,2,,Garden,8/16/2023,2.6,61,6,false,1
+2109137797,68,Female,Colorado,Platinum,19,1393.65,Kids,7/25/2023,1.0,76,3,true,1
+9797211932,36,Male,Florida,Silver,41,2986.02,Books,3/14/2023,2.2,105,58,true,1
+95127968,33,Male,Utah,Gold,28,67.91,Computers,10/04/2023,4.5,7,48,true,1
+218932871,28,Female,California,Platinum,4,54.78,Shoes,3/06/2023,1.4,67,6,true,1
+854829903,25,Male,New York,Silver,11,2043.43,Beauty,7/05/2023,4.1,100,70,false,1
+9169474095,69,Female,Ohio,Bronze,2,2365.41,Outdoors,11/26/2023,4.8,8,89,false,1
+9811848971,27,Male,Illinois,Bronze,24,,Outdoors,3/11/2023,2.2,74,69,true,0
+7057107390,60,Female,West Virginia,Bronze,24,2342.36,Grocery,7/29/2023,3.0,92,100,true,1
+327360,70,Female,District of Columbia,Bronze,46,1250.32,Jewelry,9/07/2023,4.4,41,18,true,1
+3767553244,62,Male,Wisconsin,Gold,2,2967.81,Books,3/20/2023,3.8,114,11,false,1
+539490954,59,Female,District of Columbia,Platinum,16,2658.56,Games,3/31/2023,1.5,76,13,true,1
+1251647154,47,Female,Nevada,Gold,30,161.0,Outdoors,6/21/2023,1.4,90,48,true,1
+8294457213,43,Female,North Carolina,Platinum,8,1934.13,Garden,1/26/2023,4.6,10,96,true,0
+5359314737,30,Female,Texas,Silver,26,,Clothing,10/25/2023,3.4,100,23,false,1
+3586980922,62,Female,California,Silver,44,1052.39,Shoes,12/23/2023,2.5,20,22,false,1
+9668850106,65,Female,Virginia,Silver,24,1306.74,Grocery,12/22/2023,,26,20,false,1
+6336656586,51,Male,Massachusetts,Silver,43,981.02,Grocery,12/22/2023,1.6,11,89,true,0
+3832151303,24,Female,Alabama,Bronze,24,1342.95,Books,8/31/2023,3.7,38,26,true,0
+9673427666,66,Male,Virginia,Platinum,20,2342.57,Games,1/11/2023,1.8,52,7,true,1
+2789849900,17,Male,Connecticut,Bronze,23,,Books,7/14/2023,3.0,67,29,false,0
+8141623680,19,Female,Texas,Bronze,2,1795.97,Shoes,4/22/2023,2.2,30,48,false,1
+1234497735,38,Male,New York,Platinum,43,,Shoes,2/28/2023,,47,53,true,1
+8868625350,51,Male,New Mexico,Gold,42,2396.76,Health,10/10/2023,2.6,25,10,true,0
+5637836132,32,Male,Georgia,Silver,20,2996.3,Electronics,9/10/2023,4.4,20,58,true,1
+8634218554,16,Female,Michigan,Silver,8,1523.25,Sports,3/05/2023,4.1,79,88,true,1
+7506202409,58,Male,Arizona,Bronze,45,238.13,Garden,2/14/2023,3.0,66,73,true,1
+2880110289,53,Female,Wisconsin,Bronze,24,2421.65,Industrial,5/05/2023,,69,29,true,1
+3310545830,25,Male,Washington,Platinum,40,2709.14,Shoes,1/02/2023,2.7,114,80,true,1
+1729568998,44,Female,California,Platinum,29,1964.43,Games,11/24/2023,3.3,110,71,true,0
+8457101110,46,Female,,Bronze,11,1414.13,Sports,2/11/2023,,34,70,true,1
+9101946374,18,Female,Virginia,Gold,31,2197.33,Clothing,2/15/2023,3.4,118,71,false,0
+8326888478,37,Male,California,Platinum,39,768.38,Baby,1/12/2023,1.8,71,24,false,1
+220662770,25,Male,Ohio,Gold,43,1679.24,Music,4/15/2023,2.7,101,55,false,0
+3505650137,69,Female,California,Bronze,15,2257.97,Games,2/24/2023,4.9,96,11,false,1
+3230022300,29,Male,Idaho,Platinum,28,987.05,Shoes,9/18/2023,3.2,35,84,false,0
+5509285273,18,Female,Maryland,Platinum,22,,Toys,1/20/2023,,79,14,true,0
+1067189025,62,Female,Kentucky,Gold,40,202.24,Kids,6/19/2023,,119,10,false,0
+638826969,20,Female,Virginia,Silver,27,1515.65,Garden,4/11/2023,,97,39,true,0
+4352654140,66,Male,District of Columbia,Gold,19,1822.62,Home,1/22/2023,4.1,59,61,true,0
+2438559845,54,Female,Michigan,Platinum,35,720.54,Industrial,5/17/2023,1.8,15,31,false,0
+5929694427,30,Male,South Carolina,Gold,13,62.86,Beauty,5/22/2023,1.4,67,10,true,1
+1833433106,65,Female,Texas,Silver,29,1002.29,Kids,7/21/2023,3.1,23,19,true,0
+5455091980,44,Male,Connecticut,Bronze,26,231.21,Games,8/25/2023,,107,21,false,1
+618097368,47,Male,New Mexico,Bronze,33,2724.31,Health,12/03/2023,1.1,17,26,true,0
+5138362151,17,Male,Florida,Platinum,22,2215.71,Garden,9/20/2023,1.6,46,76,false,1
+4075312682,44,Male,California,Gold,32,355.96,Beauty,1/08/2023,3.4,59,32,true,0
+273245503,66,Male,Texas,Gold,47,1720.76,Baby,2/04/2023,2.0,79,94,true,1
+8850299826,65,Male,California,Bronze,10,1378.19,Health,10/24/2023,2.9,84,63,false,1
+8769030901,64,Male,California,Bronze,22,1822.54,Shoes,6/12/2023,1.9,89,89,false,1
+9752949088,38,Male,Minnesota,Bronze,49,2180.02,Automotive,3/15/2023,2.2,96,78,false,1
+1127370685,49,Male,North Carolina,Gold,21,95.26,Music,5/28/2023,4.3,56,35,false,0
+7805808619,37,Male,Florida,Gold,18,,Outdoors,12/21/2023,1.9,63,45,false,0
+6941492309,49,Male,Florida,Silver,36,2180.5,Kids,9/14/2023,,34,15,true,0
+5621251830,25,Female,Alabama,Gold,5,2773.42,Games,3/25/2023,2.1,88,75,true,1
+8599184474,52,Female,Louisiana,Platinum,41,1157.11,Computers,12/15/2023,3.4,79,18,true,0
+4927076520,21,Male,Arizona,Gold,47,1944.36,Home,8/17/2023,3.9,99,47,true,1
+5808903955,26,Male,Mississippi,Gold,45,1325.19,Movies,6/25/2023,2.6,6,40,true,1
+1043379282,46,Female,Connecticut,Gold,13,801.26,Grocery,12/01/2023,2.4,36,5,true,1
+2756851078,55,Male,,Gold,13,1877.0,Clothing,1/30/2023,4.3,53,50,true,1
+2672583188,64,Male,,Silver,4,996.07,Computers,12/02/2023,,108,81,true,1
+3644346828,19,Female,Washington,Gold,15,2213.14,Clothing,5/22/2023,1.3,81,12,false,1
+2044937700,51,Female,Oregon,Silver,36,2622.28,Garden,11/24/2023,3.3,84,16,true,0
+1966557175,53,Female,Kansas,Gold,27,2684.87,Beauty,4/29/2023,,18,21,false,0
+4064805178,27,Female,Texas,Platinum,35,1973.84,Jewelry,7/14/2023,3.7,23,37,true,1
+9681989511,47,Female,District of Columbia,Gold,15,525.44,Shoes,3/04/2023,1.6,78,29,false,0
+310784697,45,Female,Florida,Bronze,11,552.26,Automotive,11/01/2023,1.0,81,44,true,1
+9866030806,22,Male,Ohio,Silver,4,326.59,Movies,2/04/2023,2.3,114,13,false,1
+2332727310,60,Male,Florida,Bronze,29,2319.24,Kids,3/07/2023,2.0,45,84,false,1
+9450236267,26,Female,California,Bronze,47,93.04,Automotive,6/14/2023,2.7,15,44,true,1
+3184745694,51,Female,New Jersey,Silver,31,1112.05,Jewelry,6/22/2023,,56,76,false,1
+4943752837,20,Female,District of Columbia,Bronze,45,264.71,Automotive,3/29/2023,1.5,60,58,true,0
+956848419,67,Male,Virginia,Bronze,8,911.25,Shoes,10/30/2023,2.7,43,3,true,0
+218228368,24,Female,Wisconsin,Bronze,19,486.64,Automotive,12/04/2023,1.1,19,61,false,0
+5458089154,21,Female,Louisiana,Bronze,3,,Movies,8/12/2023,3.0,44,37,true,1
+2180397089,44,Male,Michigan,Bronze,2,331.06,Baby,7/12/2023,1.1,94,54,false,0
+7364080708,58,Male,California,Bronze,38,2673.25,Health,6/22/2023,4.5,75,93,false,0
+5701479536,58,Male,Texas,Bronze,17,1054.65,Games,9/25/2023,1.8,24,46,true,1
+2728640351,55,Female,Texas,Gold,37,2289.08,Outdoors,7/19/2023,,92,4,true,0
+6029676628,20,Female,North Dakota,Bronze,13,1282.53,Movies,6/03/2023,,107,15,true,1
+2143392532,67,Male,New Mexico,Platinum,43,1804.75,Automotive,7/22/2023,3.2,95,44,true,0
+1969578793,43,Female,Texas,Silver,28,640.66,Clothing,1/18/2023,1.5,115,18,false,1
+410390224,22,Male,North Carolina,Gold,46,886.76,Outdoors,7/19/2023,4.7,39,29,true,1
+615327338,33,Male,New York,Platinum,42,1005.51,Health,5/26/2023,2.7,95,7,false,0
+8083479500,44,Male,Washington,Silver,46,1594.6,Music,8/16/2023,1.0,105,57,true,0
+2564207243,33,Female,Florida,Bronze,39,761.85,Jewelry,3/02/2023,1.4,64,18,false,1
+8205159904,39,Male,Florida,Bronze,32,1241.58,Health,2/28/2023,3.7,8,45,true,1
+6710417476,45,Male,Washington,Gold,48,2985.74,Electronics,3/11/2023,4.7,24,40,true,1
+7871531417,59,Male,Georgia,Gold,37,559.44,Beauty,11/21/2023,1.4,26,85,true,0
+7348455115,17,Female,Virginia,Bronze,18,1584.36,Sports,12/20/2023,4.1,24,37,true,1
+1906921601,38,Female,Nebraska,Platinum,1,855.45,Industrial,8/10/2023,4.5,30,28,false,0
+1733603662,57,Female,South Carolina,Silver,4,2954.9,Automotive,1/06/2023,1.5,17,47,false,0
+9427070056,24,Female,Texas,Silver,39,2485.83,Grocery,3/11/2023,2.9,85,9,false,0
+1928867251,61,Female,Florida,Gold,9,1039.6,Health,7/17/2023,3.4,107,59,false,1
+2016047399,33,Female,District of Columbia,Bronze,36,1445.05,Beauty,7/08/2023,3.4,52,100,true,1
+9225343167,23,Male,Missouri,Platinum,5,2286.48,Jewelry,9/22/2023,2.4,18,44,false,0
+9679811514,53,Male,Florida,Silver,45,2622.97,Computers,10/11/2023,1.2,6,23,false,0
+8116465279,37,Male,Washington,Gold,31,2811.05,Health,1/02/2023,4.6,49,43,true,0
+3603984501,51,Male,Massachusetts,Platinum,19,1593.74,Shoes,2/24/2023,4.7,10,83,true,0
+9792128921,17,Female,California,Gold,18,572.95,Baby,7/03/2023,,64,67,true,1
+1297552458,68,Female,Florida,Platinum,49,733.14,Beauty,6/17/2023,3.8,51,73,true,1
+8561151153,63,Male,District of Columbia,Platinum,19,,Electronics,7/14/2023,1.9,91,86,false,0
+3741779083,20,Female,Alaska,Silver,23,39.01,Grocery,3/24/2023,2.5,23,23,false,1
+3395017346,62,Male,New York,Gold,32,2397.57,Tools,4/24/2023,3.4,116,31,true,1
+7329577103,50,Male,California,Bronze,40,833.96,Movies,1/11/2023,1.4,74,85,true,1
+3501670788,40,Female,Washington,Silver,48,401.19,Books,7/01/2023,3.0,26,96,true,1
+6225452060,65,Male,California,Bronze,33,2824.84,Home,6/16/2023,2.4,59,40,true,1
+1112553703,32,Female,North Carolina,Bronze,4,2313.86,Garden,11/17/2023,3.1,103,14,true,0
+7125819230,55,Male,Maryland,Platinum,48,2906.09,Shoes,3/24/2023,4.8,25,72,true,0
+1540991970,43,Female,Georgia,Gold,36,308.02,Books,2/02/2023,3.0,103,10,true,0
+8710068317,67,Male,New York,Silver,5,1652.94,Automotive,6/05/2023,4.4,92,46,true,1
+1452178690,34,Female,Ohio,Gold,48,466.03,Music,3/15/2023,4.8,110,19,false,0
+9413975140,63,Male,New York,Platinum,40,249.28,Sports,5/28/2023,3.3,59,92,true,0
+7032929605,23,Female,Georgia,Bronze,18,1422.29,Electronics,6/08/2023,1.6,103,10,true,0
+8229304041,29,Female,Connecticut,Gold,11,467.54,Jewelry,7/16/2023,,37,88,false,0
+6981958856,51,Male,California,Gold,27,645.65,Kids,6/20/2023,2.4,55,15,false,1
+586671935,59,Male,South Carolina,Platinum,8,1501.66,Music,12/30/2023,2.9,86,39,false,0
+3185961439,44,Female,Florida,Silver,6,979.4,Beauty,6/23/2023,3.9,12,94,true,0
+8942927114,24,Male,Texas,Gold,34,,Home,9/12/2023,4.3,27,73,false,1
+2733270095,54,Male,Ohio,Silver,50,2101.64,Baby,12/30/2023,3.0,6,98,true,1
+1907301887,66,Female,Florida,Silver,8,401.08,Kids,11/17/2023,4.3,13,49,false,0
+4745975171,27,Male,,Gold,37,1891.77,Health,9/24/2023,4.0,27,71,true,0
+3607057397,62,Female,Virginia,Gold,42,825.62,Kids,7/01/2023,4.4,43,24,true,1
+2922640906,53,Female,District of Columbia,Bronze,7,575.36,Garden,3/07/2023,4.4,14,29,true,0
+6502326153,58,Male,Virginia,Bronze,4,567.01,Automotive,8/11/2023,3.7,69,55,true,0
+2349576248,58,Male,Georgia,Gold,7,1306.9,Sports,12/06/2023,3.0,100,59,true,0
+4541993694,21,Male,Nevada,Bronze,46,309.82,Industrial,9/27/2023,1.1,25,92,false,0
+53850513,32,Female,Indiana,Bronze,25,,Outdoors,1/15/2023,2.5,53,91,true,1
+9865367009,29,Female,Washington,Silver,29,1086.15,Automotive,5/18/2023,3.7,73,11,false,1
+6150588580,67,Female,Washington,Silver,9,1091.12,Clothing,7/08/2023,3.3,27,13,false,1
+5676579722,49,Female,Wisconsin,Silver,31,1437.73,Health,10/19/2023,2.4,85,3,true,1
+8332792231,18,Female,Ohio,Bronze,16,2253.22,Outdoors,9/18/2023,2.4,103,20,false,1
+1426906706,32,Male,Texas,Gold,21,1782.01,Beauty,6/18/2023,2.5,52,50,true,0
+9732487968,60,Male,District of Columbia,Bronze,15,,Tools,8/09/2023,3.8,24,87,false,0
+1590506626,43,Male,Mississippi,Gold,21,2767.15,Sports,9/14/2023,1.5,106,91,false,0
+2228372277,17,Female,California,Gold,29,1111.54,Outdoors,6/15/2023,1.8,112,60,true,0
+3762201161,25,Male,Missouri,Bronze,48,2787.03,Health,11/15/2023,4.5,72,99,true,1
+9979001585,30,Male,District of Columbia,Gold,42,,Games,6/21/2023,1.3,48,71,false,1
+1371649855,36,Male,Pennsylvania,Gold,3,1526.22,Outdoors,6/08/2023,2.0,71,23,true,1
+1609960432,23,Male,Texas,Silver,34,2784.08,Shoes,11/02/2023,2.1,49,95,false,1
+6861163392,18,Female,Virginia,Silver,15,1739.54,Movies,1/30/2023,3.6,100,95,false,1
+2230671618,42,Female,Alabama,Bronze,7,753.36,Movies,11/29/2023,4.2,108,40,true,0
+6870240175,69,Female,Kentucky,Gold,34,1250.78,Automotive,5/26/2023,1.2,91,98,true,1
+9678642581,46,Female,Wisconsin,Gold,39,2027.02,Home,7/11/2023,2.1,71,50,true,0
+2561059499,49,Female,Florida,Bronze,45,553.75,Computers,1/31/2023,4.5,8,76,false,1
+1987231198,36,Male,District of Columbia,Platinum,50,1557.01,Games,5/11/2023,4.6,86,5,false,1
+8616848460,34,Male,New Jersey,Gold,14,1977.49,Outdoors,1/08/2023,2.6,60,55,false,1
+3563733791,61,Male,Ohio,Bronze,18,1533.14,Health,9/28/2023,2.3,47,66,true,1
+433927879,47,Male,,Gold,22,1246.22,Beauty,10/02/2023,3.3,21,60,true,0
+2966691964,34,Male,Florida,Bronze,27,1161.47,Baby,12/27/2023,2.7,11,94,false,0
+6481780918,35,Female,South Dakota,Platinum,37,2532.96,Clothing,2/26/2023,3.7,81,92,false,1
+9280060686,60,Male,,Gold,12,916.33,Jewelry,12/21/2023,3.7,73,47,true,1
+1576050610,33,Female,Texas,Bronze,17,537.61,Jewelry,10/22/2023,1.6,118,8,true,0
+9769418137,46,Male,New York,Silver,22,,Tools,2/21/2023,4.2,40,70,true,1
+7241794400,35,Female,New Mexico,Silver,30,1579.08,Toys,7/23/2023,4.5,30,52,true,1
+5001992850,27,Female,California,Platinum,17,2160.94,Books,11/05/2023,3.5,26,57,true,1
+7224286281,16,Female,Texas,Gold,47,389.17,Movies,6/19/2023,4.5,19,61,true,0
+2940592233,29,Female,Arizona,Platinum,8,721.7,Jewelry,1/05/2023,2.1,67,78,false,1
+6263260661,50,Female,Louisiana,Bronze,48,1910.46,Baby,9/10/2023,1.7,47,51,true,0
+5576266315,32,Female,District of Columbia,Platinum,21,177.07,Beauty,10/02/2023,2.9,35,7,true,0
+6926261741,40,Female,New York,Bronze,49,2841.45,Computers,1/02/2023,1.0,57,34,true,0
+1893565688,18,Female,Florida,Bronze,37,,Sports,7/24/2023,1.8,54,16,false,0
+1693706040,51,Female,Georgia,Silver,50,2294.26,Music,9/01/2023,2.0,35,8,true,1
+8590669475,17,Male,Tennessee,Gold,8,2731.15,Books,8/30/2023,1.5,95,99,false,1
+4936274283,62,Male,Florida,Platinum,16,1956.67,Books,2/11/2023,1.4,34,33,true,1
+1571120998,18,Male,New Mexico,Silver,45,2624.16,Movies,7/17/2023,1.0,27,13,false,1
+4802223234,18,Male,Texas,Bronze,21,2741.42,Grocery,11/07/2023,2.7,6,3,false,0
+1416189246,28,Male,North Carolina,Gold,5,823.04,Electronics,10/26/2023,1.0,82,21,true,1
+6809193677,45,Female,Massachusetts,Platinum,26,2591.81,Music,12/23/2023,2.2,72,83,true,1
+8494174568,39,Male,Kentucky,Platinum,41,405.54,Sports,10/13/2023,1.5,110,71,true,0
+8290694385,45,Female,North Carolina,Gold,36,486.67,Automotive,9/07/2023,4.9,66,42,true,0
+7306452290,39,Male,Illinois,Platinum,13,1294.52,Sports,6/22/2023,3.6,9,5,false,1
+9746687859,23,Female,New York,Silver,47,1619.81,Shoes,1/20/2023,1.2,86,78,true,0
+4749929573,50,Female,Iowa,Gold,34,293.23,Automotive,8/25/2023,2.1,30,4,false,0
+6418629922,34,Male,North Carolina,Gold,7,2170.04,Movies,3/17/2023,2.4,76,44,false,1
+2163531163,39,Female,Illinois,Bronze,10,645.08,Music,4/08/2023,,10,12,true,0
+1692374478,39,Male,California,Bronze,37,278.98,Garden,6/03/2023,4.8,87,40,false,1
+9984389243,57,Female,Arizona,Gold,21,1651.37,Garden,11/30/2023,2.2,62,43,false,0
+5109316112,60,Male,District of Columbia,Platinum,19,1546.27,Movies,2/26/2023,2.0,93,14,true,0
+9930430822,22,Male,Florida,Bronze,3,876.63,Kids,12/17/2023,,84,7,true,0
+2130584829,45,Female,Ohio,Platinum,11,632.81,Tools,2/19/2023,1.2,102,24,true,1
+9318550294,26,Female,Texas,Bronze,46,1274.63,Automotive,6/06/2023,4.1,90,24,false,1
+4765382060,60,Female,Alaska,Silver,7,1517.32,Electronics,5/17/2023,2.1,88,96,false,0
+3224673400,61,Male,Arizona,Silver,35,1332.96,Health,10/27/2023,4.1,63,50,false,0
+9217456977,18,Male,Texas,Bronze,30,1914.55,Movies,12/01/2023,2.7,17,35,true,0
+5696077064,46,Female,Virginia,Silver,35,1575.31,Health,1/19/2023,2.3,71,3,true,1
+8646371220,40,Male,Florida,Gold,37,1590.7,Automotive,12/29/2023,1.3,15,34,true,0
+3166482792,39,Female,Texas,Silver,26,1498.5,Computers,3/08/2023,2.6,62,16,false,0
+4866467010,60,Male,Hawaii,Bronze,16,2286.88,Games,7/17/2023,4.9,44,80,true,1
+2573503992,16,Female,Florida,Gold,26,786.91,Electronics,3/06/2023,4.8,23,86,true,0
+281354715,38,Female,Ohio,Platinum,46,1408.35,Games,3/12/2023,2.6,67,25,true,0
+429180748,59,Male,Colorado,Silver,18,537.15,Books,2/19/2023,3.3,108,24,true,0
+9673706387,39,Male,Connecticut,Silver,32,2581.19,Computers,6/29/2023,4.5,5,61,false,0
+8888427708,29,Male,Michigan,Platinum,16,1627.43,Games,1/27/2023,,28,85,true,0
+9556623981,70,Male,Louisiana,Silver,22,1891.57,Home,3/04/2023,1.8,6,18,false,0
+843039752,47,Female,Ohio,Gold,26,2447.96,Grocery,6/11/2023,3.1,116,27,false,0
+9504056326,46,Male,Maryland,Platinum,3,1831.56,Jewelry,12/10/2023,2.5,10,30,true,0
+1334354154,18,Female,Texas,Gold,31,1568.16,Garden,3/09/2023,3.4,7,43,false,1
+8540254719,46,Female,,Platinum,15,1309.68,Home,11/21/2023,2.5,72,9,true,0
+5440399771,24,Female,,Silver,12,363.5,Baby,3/03/2023,3.5,73,78,true,0
+1586322877,21,Male,Florida,Platinum,41,1651.39,Music,5/04/2023,4.1,63,58,true,0
+359839878,40,Male,New York,Platinum,41,2023.8,Beauty,8/21/2023,2.7,29,23,true,1
+8732127316,55,Male,California,Platinum,40,1119.64,Grocery,5/17/2023,4.7,7,34,true,1
+5612213859,62,Male,North Carolina,Platinum,48,368.48,Sports,3/16/2023,2.1,48,6,true,1
+1893498212,22,Male,Arizona,Gold,22,46.51,Movies,6/11/2023,3.2,36,52,true,0
+8676490368,68,Female,Indiana,Silver,19,1391.48,Grocery,8/05/2023,1.8,12,42,true,0
+2008628825,40,Male,Texas,Bronze,22,1964.26,Electronics,4/15/2023,2.9,28,12,true,0
+9754387370,42,Female,Texas,Silver,27,,Music,9/05/2023,3.1,70,30,true,1
+1369860633,69,Female,Texas,Platinum,1,2528.42,Garden,4/21/2023,1.7,6,9,true,1
+5634242517,25,Female,Alabama,Gold,4,1640.38,Grocery,7/08/2023,4.4,39,38,false,0
+5529928498,62,Female,Colorado,Platinum,32,1187.15,Games,7/20/2023,2.4,74,71,false,1
+7785849587,16,Female,Virginia,Gold,12,1071.84,Clothing,7/24/2023,2.7,79,15,false,1
+8397582886,43,Male,Indiana,Silver,24,1882.16,Outdoors,6/06/2023,4.2,115,77,false,1
+9557066172,37,Male,Oklahoma,Platinum,1,1393.21,Jewelry,8/20/2023,4.5,104,69,false,0
+2069596575,18,Male,Indiana,Bronze,5,1563.2,Kids,5/31/2023,3.0,103,15,true,1
+3411499273,17,Male,Nevada,Bronze,15,1998.15,Baby,1/08/2023,3.4,112,72,false,0
+2482494834,59,Female,Texas,Platinum,46,2764.94,Electronics,3/12/2023,3.9,68,69,true,0
+7294043078,47,Female,Louisiana,Platinum,4,575.53,Baby,3/02/2023,4.0,107,8,false,0
+2388044146,51,Male,Illinois,Platinum,32,339.08,Kids,9/13/2023,4.8,116,49,true,1
+18645569,57,Male,Arizona,Silver,17,213.5,Sports,3/16/2023,2.3,28,95,true,0
+4461597571,41,Female,California,Bronze,28,937.45,Industrial,11/01/2023,1.3,6,73,false,1
+472262386,70,Female,Washington,Bronze,16,1733.09,Industrial,4/24/2023,2.0,11,74,true,1
+4969708932,40,Female,Texas,Bronze,26,786.61,Garden,9/08/2023,4.2,32,59,false,0
+4790197824,58,Male,Texas,Bronze,18,1399.07,Health,10/22/2023,3.2,90,59,true,0
+4015044924,61,Male,Michigan,Bronze,26,482.47,Electronics,8/31/2023,1.4,8,70,false,1
+8317168557,37,Female,Missouri,Gold,40,680.73,Health,5/24/2023,1.6,97,71,false,1
+6493704693,70,Female,New York,Platinum,3,2063.81,Baby,3/26/2023,2.6,66,91,true,1
+6135784579,41,Male,New York,Bronze,47,319.88,Tools,8/03/2023,4.8,49,86,false,1
+7055310202,25,Male,Florida,Gold,36,80.35,Electronics,8/03/2023,1.2,12,69,true,0
+2249231702,28,Male,North Carolina,Platinum,9,1679.2,Toys,11/21/2023,,65,1,false,0
+221421203,52,Female,Utah,Bronze,17,2343.6,Home,6/26/2023,4.6,13,91,true,1
+3146465558,66,Female,Michigan,Platinum,43,1872.55,Kids,4/19/2023,4.4,43,8,false,1
+9636748675,61,Female,Connecticut,Gold,23,98.91,Electronics,8/27/2023,3.4,57,76,false,1
+6241979159,62,Male,Texas,Bronze,15,980.28,Home,1/01/2023,3.8,86,5,false,0
+615049915,47,Female,Texas,Silver,20,832.73,Kids,10/15/2023,4.4,19,27,true,1
+6652601028,36,Male,Texas,Platinum,27,2346.44,Toys,3/03/2023,3.1,29,26,true,1
+5384047909,24,Male,Iowa,Gold,8,1358.33,Garden,5/20/2023,4.0,65,51,false,0
+9920386561,37,Male,Louisiana,Platinum,26,693.95,Kids,9/01/2023,1.5,11,99,false,0
+8990938651,27,Female,Texas,Platinum,32,1897.12,Jewelry,3/07/2023,4.4,29,7,true,1
+9500537435,32,Female,Wisconsin,Platinum,44,,Baby,9/29/2023,3.0,106,5,true,0
+5266376295,21,Male,Texas,Silver,6,2961.48,Electronics,10/10/2023,4.5,61,80,true,0
+4764251922,63,Male,Michigan,Bronze,28,1161.47,Shoes,1/08/2023,5.0,91,47,false,1
+4921038856,18,Female,New York,Bronze,11,,Sports,6/28/2023,1.9,89,2,true,0
+1976514770,36,Male,Florida,Silver,35,,Books,11/16/2023,2.4,9,99,false,0
+914221558,36,Male,Kansas,Silver,8,178.01,Toys,3/06/2023,4.2,55,29,false,1
+4962766201,31,Female,,Gold,45,685.54,Shoes,8/11/2023,4.7,84,11,false,0
+2305517327,27,Male,District of Columbia,Bronze,6,2488.47,Grocery,5/22/2023,2.8,47,96,true,1
+3446065326,67,Male,Oklahoma,Bronze,45,1328.66,Toys,2/17/2023,2.9,79,6,false,0
+8560755713,43,Female,Kansas,Silver,26,1978.76,Movies,4/23/2023,2.0,11,61,true,1
+246150238,52,Female,Missouri,Platinum,2,1061.41,Shoes,4/18/2023,1.5,37,55,true,1
+4324599807,25,Female,Texas,Gold,38,998.24,Baby,8/11/2023,3.1,72,37,false,0
+6851696851,27,Female,Illinois,Silver,33,1367.95,Kids,7/09/2023,4.0,17,37,false,1
+5449054114,22,Male,California,Bronze,22,2696.4,Baby,11/19/2023,2.8,49,89,true,0
+785140360,48,Female,Louisiana,Silver,46,1902.09,Kids,3/31/2023,3.9,109,64,true,1
+7567734796,40,Male,Nevada,Silver,19,1948.17,Clothing,6/27/2023,3.1,102,62,false,0
+8319295807,67,Female,Texas,Platinum,28,754.59,Automotive,5/20/2023,,109,85,true,1
+7530448242,55,Female,Florida,Bronze,20,145.69,Games,6/17/2023,3.3,75,74,true,1
+617066817,22,Male,Texas,Platinum,33,967.79,Sports,11/05/2023,1.6,41,42,true,1
+946065802,37,Male,New York,Bronze,7,497.41,Kids,4/20/2023,1.4,22,59,false,1
+6436882839,56,Female,Utah,Bronze,41,2591.42,Tools,12/19/2023,3.7,119,13,false,0
+7590132225,55,Female,Kentucky,Gold,44,1888.62,Clothing,1/09/2023,1.1,95,70,false,1
+6015018968,60,Male,Indiana,Platinum,16,973.21,Movies,7/03/2023,4.0,43,86,false,0
+1954107684,56,Male,Tennessee,Bronze,34,1305.25,Baby,11/24/2023,3.7,119,59,true,1
+5838820861,69,Male,Indiana,Platinum,49,504.4,Baby,2/21/2023,3.8,94,24,false,0
+695962728,27,Male,California,Bronze,7,1518.11,Kids,7/20/2023,,56,3,false,0
+4134764793,68,Male,Washington,Bronze,46,2819.21,Beauty,12/30/2023,2.4,28,21,true,0
+3913342257,62,Male,Pennsylvania,Silver,49,1328.9,Toys,2/21/2023,2.4,25,37,false,1
+5650910243,69,Female,New York,Silver,18,598.38,Industrial,2/01/2023,4.7,20,44,true,1
+874152305,51,Male,Florida,Silver,10,551.83,Music,3/26/2023,3.7,58,97,true,1
+3206998387,21,Female,New York,Gold,3,1367.37,Outdoors,11/21/2023,4.1,32,77,false,0
+1965456235,46,Male,Hawaii,Bronze,25,259.18,Shoes,5/16/2023,3.0,84,42,false,0
+1040590314,30,Female,Washington,Platinum,6,532.73,Books,8/23/2023,1.5,67,26,false,0
+1292723777,45,Female,Georgia,Gold,13,1187.42,Home,2/09/2023,2.6,66,25,false,1
+9169032947,66,Female,Texas,Platinum,15,381.96,Kids,9/11/2023,1.6,68,52,true,0
+3158382687,43,Male,District of Columbia,Silver,17,1217.59,Beauty,1/25/2023,3.8,31,90,true,0
+1566170737,60,Female,Texas,Platinum,12,1355.41,Shoes,1/12/2023,4.2,87,16,true,0
+6657507941,54,Male,Oklahoma,Bronze,34,1776.87,Movies,12/11/2023,4.3,20,32,false,1
+3525984820,61,Female,Montana,Gold,33,368.49,Garden,7/03/2023,3.0,99,78,true,1
+759601496,22,Female,Texas,Platinum,45,2351.14,Movies,7/13/2023,2.5,15,93,true,1
+2706552077,42,Female,Colorado,Bronze,19,716.63,Outdoors,10/20/2023,,73,3,true,1
+9076730539,36,Female,Texas,Silver,24,597.93,Clothing,3/21/2023,3.1,39,43,true,0
+7773342040,37,Female,Florida,Gold,17,1173.47,Tools,8/08/2023,4.7,34,16,false,1
+9200870473,41,Male,Ohio,Silver,34,2934.32,Computers,1/22/2023,1.7,22,78,false,0
+6194845791,54,Female,Pennsylvania,Bronze,17,707.07,Kids,6/12/2023,3.0,113,35,true,0
+4900329606,36,Female,Florida,Gold,8,1853.49,Books,4/02/2023,,6,68,true,0
+3179467894,70,Female,Indiana,Platinum,5,2785.63,Sports,5/24/2023,2.8,105,27,false,1
+6854685354,37,Female,District of Columbia,Platinum,28,1129.64,Shoes,6/09/2023,4.7,15,99,false,0
+6470522831,43,Male,Illinois,Bronze,2,269.68,Electronics,12/14/2023,2.7,93,63,false,0
+7488947827,17,Male,California,Silver,28,,Tools,8/13/2023,1.5,7,5,true,1
+5404190876,23,Female,Utah,Silver,34,453.76,Baby,1/20/2023,2.0,19,33,false,1
+1383862826,19,Female,District of Columbia,Silver,36,863.27,Books,11/24/2023,4.7,46,23,false,1
+2297421826,35,Female,California,Platinum,33,315.37,Outdoors,12/08/2023,3.6,111,98,false,0
+6801570234,33,Female,Virginia,Silver,48,1425.32,Clothing,7/11/2023,3.0,44,85,false,1
+66081572,29,Male,Colorado,Silver,18,333.7,Tools,4/11/2023,3.3,5,46,true,1
+4318604071,68,Female,Kansas,Platinum,26,2677.54,Computers,8/31/2023,3.8,36,63,true,1
+6287130873,53,Female,New York,Silver,41,628.33,Sports,9/12/2023,2.3,9,51,false,1
+287362493,57,Female,California,Platinum,25,1518.12,Automotive,12/25/2023,2.2,90,77,true,1
+3814384768,29,Female,District of Columbia,Platinum,50,1318.04,Toys,4/03/2023,3.6,6,68,false,0
+7512289170,28,Female,Alabama,Silver,41,,Music,3/13/2023,1.1,45,39,true,0
+4863082878,70,Female,Ohio,Bronze,37,2354.92,Beauty,2/07/2023,4.3,90,23,false,0
+7700871574,56,Female,Missouri,Gold,13,990.23,Automotive,10/29/2023,3.0,108,18,false,0
+7108269597,31,Male,Pennsylvania,Platinum,35,965.41,Electronics,3/29/2023,4.5,117,87,false,1
+8810671740,70,Male,New Jersey,Bronze,5,2295.46,Home,3/03/2023,2.2,92,75,false,1
+6966245275,62,Male,Texas,Gold,21,2137.87,Beauty,5/27/2023,4.4,46,15,false,1
+6871589112,47,Female,District of Columbia,Platinum,23,2779.39,Grocery,9/27/2023,1.0,86,47,true,0
+9386044455,20,Female,California,Platinum,4,2890.67,Games,6/10/2023,3.0,32,91,false,1
+5270847094,19,Male,Illinois,Silver,10,446.52,Games,12/25/2023,1.6,70,8,true,1
+8958407859,41,Male,Georgia,Gold,31,731.32,Sports,3/01/2023,2.4,51,11,true,0
+9455773066,41,Male,California,Silver,40,1656.4,Books,7/18/2023,1.0,9,98,false,0
+6928967005,44,Female,Delaware,Silver,27,2828.26,Baby,9/20/2023,3.2,93,65,true,0
+3290112039,40,Female,Connecticut,Gold,4,1651.95,Games,7/14/2023,3.0,79,52,false,0
+9610616410,63,Female,Iowa,Gold,3,1131.17,Grocery,4/29/2023,2.7,44,89,true,1
+4972033126,25,Female,Alabama,Bronze,15,1764.46,Baby,10/24/2023,,14,64,false,0
+4447820714,65,Male,,Silver,16,409.23,Books,1/16/2023,3.5,67,99,true,1
+9486837708,56,Male,New York,Silver,42,,Games,5/02/2023,3.3,49,39,false,1
+324787383,70,Male,Colorado,Silver,32,1605.29,Movies,6/02/2023,4.9,118,73,false,1
+7465700604,37,Female,New York,Gold,33,2715.52,Baby,4/18/2023,2.9,62,97,false,1
+7809021753,62,Female,Texas,Platinum,35,1864.2,Books,5/07/2023,3.4,15,53,true,1
+2137783533,55,Male,Pennsylvania,Gold,31,1131.53,Health,4/05/2023,1.3,69,86,false,1
+1569089434,47,Female,Iowa,Bronze,41,971.5,Books,6/19/2023,3.6,118,71,true,1
+130790079,65,Female,Michigan,Bronze,44,1084.93,Movies,10/01/2023,2.3,60,52,false,1
+6969813045,40,Female,Massachusetts,Bronze,17,95.68,Tools,8/30/2023,4.0,94,60,true,1
+5296494288,21,Male,California,Bronze,43,1346.54,Automotive,11/01/2023,,34,35,true,0
+2129533205,61,Male,New York,Bronze,33,695.23,Grocery,3/30/2023,4.0,108,35,true,1
+976849283,40,Male,Indiana,Bronze,32,332.57,Games,6/27/2023,3.3,74,87,true,1
+4053448425,65,Male,California,Gold,36,2040.98,Books,6/08/2023,,64,25,true,1
+4830060107,23,Female,New York,Gold,38,1441.58,Computers,8/18/2023,2.4,42,2,false,1
+1887379290,61,Male,Texas,Bronze,16,1808.44,Books,12/25/2023,3.6,98,58,true,0
+2381460527,40,Female,New York,Platinum,48,2148.82,Jewelry,8/31/2023,1.7,17,97,false,0
+4759118845,56,Female,California,Gold,35,2567.94,Outdoors,1/19/2023,,12,90,false,1
+4230659946,69,Male,Missouri,Bronze,33,2634.82,Garden,8/02/2023,2.1,51,94,true,1
+9992419180,59,Male,Kansas,Platinum,10,794.07,Books,4/07/2023,2.1,56,25,false,1
+19467877,22,Male,Michigan,Gold,20,2319.0,Games,8/10/2023,3.8,111,78,true,1
+4309408753,51,Female,California,Gold,1,2124.74,Movies,3/20/2023,4.0,50,12,false,1
+3040690620,33,Male,New York,Bronze,40,670.37,Garden,1/22/2023,,80,65,false,0
+1016422806,32,Male,Florida,Bronze,44,777.93,Garden,1/22/2023,2.3,77,16,true,0
+3395228657,52,Female,New York,Platinum,22,283.82,Music,9/23/2023,4.4,99,66,false,1
+1446122727,67,Female,Pennsylvania,Platinum,19,1113.07,Kids,11/24/2023,4.2,36,52,false,0
+6752337462,45,Male,,Bronze,18,865.92,Beauty,7/07/2023,3.5,45,44,false,0
+2633744834,38,Male,Kansas,Gold,22,1909.93,Health,4/23/2023,4.5,18,43,false,1
+560382561,66,Female,California,Platinum,2,2523.08,Jewelry,3/18/2023,2.2,71,57,true,1
+6883741127,47,Male,New York,Gold,1,158.45,Home,5/21/2023,3.8,30,71,true,0
+3659865028,65,Male,California,Bronze,1,635.31,Electronics,9/18/2023,3.8,80,4,false,1
+5483205545,46,Male,Texas,Platinum,27,1470.75,Garden,8/22/2023,4.6,26,57,true,0
+573989753,45,Female,Michigan,Gold,28,1581.59,Outdoors,6/27/2023,3.9,49,100,true,1
+5508180591,27,Male,Idaho,Platinum,2,1998.62,Computers,9/17/2023,3.5,70,1,false,1
+9667091686,22,Male,Pennsylvania,Gold,46,622.44,Shoes,11/02/2023,2.7,82,71,true,1
+8133801826,21,Male,Arkansas,Silver,10,1526.14,Health,1/19/2023,3.6,70,4,false,0
+8427023294,51,Male,Michigan,Bronze,46,611.69,Health,4/12/2023,4.5,73,42,false,1
+7122367444,20,Female,Washington,Bronze,18,675.39,Home,7/17/2023,2.7,51,21,true,0
+942001826,52,Female,Texas,Gold,48,551.97,Movies,1/19/2023,,89,50,false,0
+689996942,66,Male,California,Platinum,17,2033.17,Books,10/01/2023,2.5,80,7,true,1
+3178450998,48,Female,Pennsylvania,Platinum,40,1896.1,Baby,7/28/2023,1.3,43,39,false,0
+622077538,62,Female,Alabama,Silver,29,227.07,Home,11/08/2023,1.2,46,49,true,0
+9336105051,46,Male,Florida,Platinum,49,2010.73,Home,12/03/2023,2.6,29,91,false,1
+1852527811,43,Female,Nevada,Platinum,50,,Movies,7/15/2023,2.1,41,73,false,0
+6280013812,57,Female,California,Platinum,22,731.46,Baby,6/04/2023,4.2,118,45,true,1
+5164448114,42,Male,California,Gold,26,2960.84,Home,5/16/2023,4.8,79,99,false,0
+4597803203,61,Male,Oklahoma,Platinum,28,1800.55,Books,7/02/2023,1.6,13,9,true,0
+7949275219,29,Female,Washington,Bronze,9,1585.29,Music,11/02/2023,,67,83,true,0
+6812944394,23,Female,Texas,Gold,10,138.56,Shoes,1/04/2023,1.3,99,42,true,0
+2842163249,48,Female,South Carolina,Platinum,44,293.96,Beauty,10/25/2023,2.9,68,41,false,1
+8418000392,33,Male,Mississippi,Silver,4,2439.66,Shoes,1/16/2023,1.7,100,60,false,1
+7542728679,35,Female,District of Columbia,Bronze,25,830.47,Home,11/16/2023,,98,68,false,1
+5002903533,49,Female,Colorado,Bronze,41,1570.42,Kids,9/22/2023,2.9,87,45,true,1
+389645214,54,Male,North Carolina,Bronze,49,1441.58,Computers,10/04/2023,3.5,42,86,false,0
+2698298472,51,Male,,Platinum,43,1831.23,Outdoors,3/22/2023,4.8,28,42,false,1
+2026070776,39,Female,Colorado,Gold,49,1981.22,Clothing,3/09/2023,4.2,44,49,false,0
+5241909583,68,Male,Texas,Bronze,25,1296.4,Health,9/19/2023,4.5,39,76,true,0
+9967889004,59,Female,Michigan,Bronze,23,,Computers,6/11/2023,2.3,81,17,false,1
+1384097937,53,Male,New York,Silver,12,344.26,Computers,3/12/2023,1.7,20,89,false,1
+173495583,30,Male,Virginia,Gold,18,2744.53,Shoes,8/15/2023,3.2,54,17,true,0
+2393896414,33,Male,Texas,Platinum,37,362.34,Jewelry,11/11/2023,2.9,54,70,true,0
+1357116047,59,Male,Louisiana,Gold,7,,Electronics,1/01/2023,3.3,51,21,true,1
+8742384389,23,Male,Texas,Bronze,30,657.95,Outdoors,7/11/2023,1.2,107,25,false,0
+7942388603,49,Female,Texas,Platinum,15,2986.51,Electronics,10/12/2023,4.2,29,35,false,1
+5059333477,18,Female,Missouri,Gold,18,526.45,Beauty,10/11/2023,2.6,96,29,false,1
+8014757998,20,Male,Maryland,Bronze,24,1976.5,Electronics,8/28/2023,1.2,96,63,false,0
+318874555,50,Female,Wisconsin,Bronze,49,1189.31,Shoes,1/03/2023,,108,82,false,1
+2704243115,69,Male,Iowa,Gold,15,2870.73,Automotive,7/21/2023,5.0,108,83,true,1
+6965842687,18,Female,California,Bronze,28,1994.33,Music,9/08/2023,2.9,25,9,true,1
+2579918272,37,Female,California,Bronze,33,2579.8,Books,3/22/2023,3.5,11,93,true,1
+3786388938,26,Female,District of Columbia,Gold,47,1379.05,Books,12/11/2023,4.2,5,58,false,0
+884909751,20,Female,Connecticut,Gold,9,2175.09,Health,8/08/2023,4.4,69,13,true,1
+3124679245,65,Male,Minnesota,Bronze,50,2897.69,Grocery,9/18/2023,4.9,109,90,true,0
+8251223830,67,Male,Texas,Silver,4,1166.43,Games,3/05/2023,,57,66,false,1
+6247513356,46,Female,Maryland,Bronze,45,1858.42,Clothing,7/26/2023,2.7,96,75,false,1
+164243534,58,Female,Washington,Gold,21,1568.46,Outdoors,4/14/2023,2.9,102,81,true,1
+5326110407,58,Male,North Carolina,Gold,37,1051.68,Electronics,7/20/2023,,64,91,true,1
+2455777308,34,Male,Tennessee,Bronze,11,1202.37,Games,1/21/2023,1.6,16,93,false,0
+9291958506,20,Male,Washington,Bronze,1,2625.61,Books,10/05/2023,1.3,5,74,true,1
+7429286070,47,Male,Connecticut,Silver,13,1655.41,Sports,10/09/2023,3.3,7,51,false,1
+8235347105,63,Male,California,Bronze,46,1571.64,Clothing,11/22/2023,4.5,47,87,false,1
+3154319360,45,Male,Texas,Gold,17,295.07,Beauty,2/19/2023,1.3,61,72,false,0
+7435862177,40,Male,Oklahoma,Silver,47,783.62,Clothing,7/23/2023,1.8,78,3,false,0
+3902859148,18,Male,California,Platinum,5,,Beauty,3/07/2023,4.6,45,7,true,1
+7982954472,43,Female,Kentucky,Bronze,3,49.71,Music,6/08/2023,4.2,78,83,true,0
+8637669972,36,Female,Louisiana,Bronze,21,1240.65,Shoes,6/27/2023,4.3,91,34,false,1
+94471509,25,Male,Florida,Silver,25,,Garden,1/15/2023,2.4,16,31,false,0
+8983569085,70,Male,,Gold,13,2415.29,Outdoors,6/20/2023,4.1,97,84,true,1
+4366785684,44,Female,Florida,Platinum,12,1636.0,Books,12/01/2023,2.5,45,30,true,1
+5004526702,16,Male,Alabama,Gold,6,1289.84,Books,12/09/2023,3.3,14,60,false,1
+395891094,33,Male,District of Columbia,Bronze,44,203.72,Jewelry,10/12/2023,4.5,22,69,false,1
+6778527447,17,Male,West Virginia,Gold,40,963.57,Music,3/16/2023,2.0,52,31,true,1
+3424298581,60,Male,Ohio,Silver,30,1510.55,Baby,10/22/2023,4.0,72,35,true,1
+295050950,19,Male,Connecticut,Bronze,31,2241.48,Kids,10/13/2023,4.3,50,84,true,1
+8819107244,55,Male,Michigan,Bronze,50,237.59,Baby,7/12/2023,2.7,42,68,true,1
+2731259582,62,Male,Kentucky,Silver,28,2984.98,Health,11/03/2023,3.7,58,8,false,0
+5034759977,70,Male,Texas,Silver,15,,Grocery,11/23/2023,3.5,33,83,false,0
+603480454,45,Female,Maryland,Platinum,46,633.2,Toys,3/31/2023,2.8,88,15,false,1
+7674974790,43,Female,Kansas,Platinum,16,884.88,Books,9/28/2023,1.3,18,37,true,0
+1994311797,55,Male,Missouri,Bronze,46,815.31,Home,5/23/2023,2.9,66,74,true,1
+399388044,45,Male,Minnesota,Silver,8,2635.75,Movies,9/28/2023,3.1,111,96,false,0
+5200913829,39,Female,Delaware,Silver,47,339.66,Grocery,6/06/2023,1.2,15,6,false,1
+7737237402,49,Female,Texas,Silver,15,1586.69,Automotive,2/25/2023,3.9,43,82,true,0
+2987225903,40,Female,California,Bronze,29,545.05,Outdoors,1/19/2023,1.6,70,65,true,1
+9237101511,22,Female,Maryland,Bronze,26,727.6,Shoes,1/25/2023,4.7,21,46,false,0
